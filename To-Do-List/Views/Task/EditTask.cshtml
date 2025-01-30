@@ -14,16 +14,10 @@
 <body>
     <div class="theInputs">
         <h2>Edit Task</h2>
-
         <form asp-action="EditTask" asp-controller="Task" method="post">
-            <!-- Title Input -->
             <input required asp-for="Title" placeholder="Enter task title" class="form-input" />
-
-            <!-- Hidden Fields -->
             <input asp-for="Id" type="hidden" />
             <input asp-for="UserId" value="@ViewBag.UserId" type="hidden" />
-
-            <!-- Completion Status -->
             <div class="radio-group">
                 <p>Is completed?</p>
                 <div class="radio-option">
@@ -35,9 +29,6 @@
                     <label for="notDone">Uncomplete</label>
                 </div>
             </div>
-
-            <!-- Submit Button -->
-           
             <input type="submit" value="Save Changes" class="btn-submit" />
         </form>
     </div>

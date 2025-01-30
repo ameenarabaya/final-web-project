@@ -48,14 +48,9 @@
         <h2>Edit Subtask</h2>
 
         <form asp-action="EditSubTask" asp-controller="Task" method="post">
-            <!-- Title Input -->
             <input required asp-for="Title" class="form-input" placeholder="Subtask title" />
-
-            <!-- Hidden Fields -->
             <input asp-for="Id" type="hidden" />
             <input asp-for="TaskModelId" type="hidden" />
-
-            <!-- Completion Status -->
             <div class="radio-group">
                 <p>Is completed?</p>
                 <div class="radio-option">
@@ -67,8 +62,6 @@
                     <label for="notDone">Uncomplete</label>
                 </div>
             </div>
-          
-            <!-- Submit Button -->
             <input type="submit" value="Save Changes" class="btn-submit" />
         </form>
     </div>

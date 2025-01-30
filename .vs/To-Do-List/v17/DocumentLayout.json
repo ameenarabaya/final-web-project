@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F8BBAE7F-C563-4A40-A3CC-91A678ABCC1D}|To-Do-List\\To-Do-List.csproj|c:\\users\\alfalak\\desktop\\finalwebproject\\web-project2-main\\to-do-list\\models\\taskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8BBAE7F-C563-4A40-A3CC-91A678ABCC1D}|To-Do-List\\To-Do-List.csproj|solutionrelative:to-do-list\\models\\taskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8BBAE7F-C563-4A40-A3CC-91A678ABCC1D}|To-Do-List\\To-Do-List.csproj|c:\\users\\alfalak\\desktop\\finalwebproject\\web-project2-main\\to-do-list\\models\\subtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8BBAE7F-C563-4A40-A3CC-91A678ABCC1D}|To-Do-List\\To-Do-List.csproj|solutionrelative:to-do-list\\models\\subtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F8BBAE7F-C563-4A40-A3CC-91A678ABCC1D}|To-Do-List\\To-Do-List.csproj|c:\\users\\alfalak\\desktop\\finalwebproject\\web-project2-main\\to-do-list\\views\\task\\task.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F8BBAE7F-C563-4A40-A3CC-91A678ABCC1D}|To-Do-List\\To-Do-List.csproj|solutionrelative:to-do-list\\views\\task\\task.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F8BBAE7F-C563-4A40-A3CC-91A678ABCC1D}|To-Do-List\\To-Do-List.csproj|c:\\users\\alfalak\\desktop\\finalwebproject\\web-project2-main\\to-do-list\\views\\task\\edittask.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F8BBAE7F-C563-4A40-A3CC-91A678ABCC1D}|To-Do-List\\To-Do-List.csproj|solutionrelative:to-do-list\\views\\task\\edittask.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F8BBAE7F-C563-4A40-A3CC-91A678ABCC1D}|To-Do-List\\To-Do-List.csproj|c:\\users\\alfalak\\desktop\\finalwebproject\\web-project2-main\\to-do-list\\views\\task\\task.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F8BBAE7F-C563-4A40-A3CC-91A678ABCC1D}|To-Do-List\\To-Do-List.csproj|solutionrelative:to-do-list\\views\\task\\task.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F8BBAE7F-C563-4A40-A3CC-91A678ABCC1D}|To-Do-List\\To-Do-List.csproj|c:\\users\\alfalak\\desktop\\finalwebproject\\web-project2-main\\to-do-list\\views\\task\\editsubtask.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -25,6 +17,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{F8BBAE7F-C563-4A40-A3CC-91A678ABCC1D}|To-Do-List\\To-Do-List.csproj|c:\\users\\alfalak\\desktop\\finalwebproject\\web-project2-main\\to-do-list\\views\\task\\addtask.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F8BBAE7F-C563-4A40-A3CC-91A678ABCC1D}|To-Do-List\\To-Do-List.csproj|solutionrelative:to-do-list\\views\\task\\addtask.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8BBAE7F-C563-4A40-A3CC-91A678ABCC1D}|To-Do-List\\To-Do-List.csproj|c:\\users\\alfalak\\desktop\\finalwebproject\\web-project2-main\\to-do-list\\models\\taskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8BBAE7F-C563-4A40-A3CC-91A678ABCC1D}|To-Do-List\\To-Do-List.csproj|solutionrelative:to-do-list\\models\\taskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8BBAE7F-C563-4A40-A3CC-91A678ABCC1D}|To-Do-List\\To-Do-List.csproj|c:\\users\\alfalak\\desktop\\finalwebproject\\web-project2-main\\to-do-list\\models\\subtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8BBAE7F-C563-4A40-A3CC-91A678ABCC1D}|To-Do-List\\To-Do-List.csproj|solutionrelative:to-do-list\\models\\subtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F8BBAE7F-C563-4A40-A3CC-91A678ABCC1D}|To-Do-List\\To-Do-List.csproj|c:\\users\\alfalak\\desktop\\finalwebproject\\web-project2-main\\to-do-list\\views\\task\\addsubtask.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -53,20 +53,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Task.cshtml",
               "DocumentMoniker": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\Views\\Task\\Task.cshtml",
               "RelativeDocumentMoniker": "To-Do-List\\Views\\Task\\Task.cshtml",
               "ToolTip": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\Views\\Task\\Task.cshtml",
               "RelativeToolTip": "To-Do-List\\Views\\Task\\Task.cshtml",
-              "ViewState": "AgIAADUAAAAAAAAAAAAWwDwAAABBAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-27T23:25:12.112Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -83,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "TaskModel.cs",
               "DocumentMoniker": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\Models\\TaskModel.cs",
               "RelativeDocumentMoniker": "To-Do-List\\Models\\TaskModel.cs",
@@ -96,39 +97,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SubTask.cs",
-              "DocumentMoniker": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\Models\\SubTask.cs",
-              "RelativeDocumentMoniker": "To-Do-List\\Models\\SubTask.cs",
-              "ToolTip": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\Models\\SubTask.cs",
-              "RelativeToolTip": "To-Do-List\\Models\\SubTask.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-30T11:40:58.086Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "AddTask.cshtml",
               "DocumentMoniker": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\Views\\Task\\AddTask.cshtml",
               "RelativeDocumentMoniker": "To-Do-List\\Views\\Task\\AddTask.cshtml",
               "ToolTip": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\Views\\Task\\AddTask.cshtml",
               "RelativeToolTip": "To-Do-List\\Views\\Task\\AddTask.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-28T15:28:05.373Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "AddSubTask.cshtml",
-              "DocumentMoniker": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\Views\\Task\\AddSubTask.cshtml",
-              "RelativeDocumentMoniker": "To-Do-List\\Views\\Task\\AddSubTask.cshtml",
-              "ToolTip": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\Views\\Task\\AddSubTask.cshtml",
-              "RelativeToolTip": "To-Do-List\\Views\\Task\\AddSubTask.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-28T15:27:54.888Z"
+              "WhenOpened": "2025-01-28T15:28:05.373Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -144,27 +122,53 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "EditSubTask.cshtml",
               "DocumentMoniker": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\Views\\Task\\EditSubTask.cshtml",
               "RelativeDocumentMoniker": "To-Do-List\\Views\\Task\\EditSubTask.cshtml",
               "ToolTip": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\Views\\Task\\EditSubTask.cshtml",
               "RelativeToolTip": "To-Do-List\\Views\\Task\\EditSubTask.cshtml",
-              "ViewState": "AgIAACgAAAAAAAAAAAAlwEIAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAACgAAAAAAAAAAAAlwDcAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-28T12:08:55.654Z"
+              "WhenOpened": "2025-01-28T12:08:55.654Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "EditTask.cshtml",
               "DocumentMoniker": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\Views\\Task\\EditTask.cshtml",
               "RelativeDocumentMoniker": "To-Do-List\\Views\\Task\\EditTask.cshtml",
-              "ToolTip": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\Views\\Task\\EditTask.cshtml",
-              "RelativeToolTip": "To-Do-List\\Views\\Task\\EditTask.cshtml",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAlwBYAAAAwAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\Views\\Task\\EditTask.cshtml*",
+              "RelativeToolTip": "To-Do-List\\Views\\Task\\EditTask.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-28T11:54:06.316Z"
+              "WhenOpened": "2025-01-28T11:54:06.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddSubTask.cshtml",
+              "DocumentMoniker": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\Views\\Task\\AddSubTask.cshtml",
+              "RelativeDocumentMoniker": "To-Do-List\\Views\\Task\\AddSubTask.cshtml",
+              "ToolTip": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\Views\\Task\\AddSubTask.cshtml",
+              "RelativeToolTip": "To-Do-List\\Views\\Task\\AddSubTask.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-28T15:27:54.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SubTask.cs",
+              "DocumentMoniker": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\Models\\SubTask.cs",
+              "RelativeDocumentMoniker": "To-Do-List\\Models\\SubTask.cs",
+              "ToolTip": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\Models\\SubTask.cs",
+              "RelativeToolTip": "To-Do-List\\Models\\SubTask.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T11:40:58.086Z"
             },
             {
               "$type": "Document",
