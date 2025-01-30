@@ -1,0 +1,84 @@
+﻿@model User
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@{
+    ViewData["Title"] = "login Page";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href=" @Url.Content("~/css/base.css")">
+    <link rel="stylesheet" href="@Url.Content("~/css/login.css")">
+    <link rel="icon" href="@Url.Content("~/img/title-icon.png")">
+    <title>TO-DO-List Login </title>
+</head>
+<body>
+    <div class="login">
+        <div class="container">
+            <div class="row">
+                <div class="left-side h-100">
+                    <h2>Log in</h2>
+                    <form method="post" asp-action="Index" asp-controller="User" autocomplete="on">
+                        <div class="social-media">
+                            <div class="row">
+                                <button class="text-center">
+                                    <img src="./img/facebook.svg" alt="facebook">
+                                    <a href="https://www.facebook.com/">Continue with Facebook</a>
+                                </button>
+                            </div>
+                            <div class="row">
+                                <button>
+                                    <img src="./img/google.svg" alt="google">
+                                    <a href="https://myaccount.google.com/email/">Continue with Google</a>
+                                </button>
+                            </div>
+
+                            <div class="row">
+                                <button>
+                                    <img src="./img/apple.svg" alt="apple">
+                                    <a href="https://www.apple.com/">Continue with Apple</a>
+                                </button>
+                            </div>
+                        </div>
+                        <div class="box">
+                            <label>Name </label>
+                            <input asp-for="Name" type="text" required placeholder="Your Name...">
+                        </div>
+                        <div class="box">
+                            <label asp-for="Email">Email </label>
+                            <input asp-for="Email" type="text" required placeholder="Your Email ...">
+
+                        </div>
+                        <div class="box">
+                            <label asp-for="Password">Password </label>
+                            <input asp-for="Password" type="password" required placeholder="Your Password ...">
+                        </div>
+                        <input type="submit" value="Login">
+
+                        @if (@ViewBag.Error != null)
+                        {
+                            <div class="errormsg text-start">* @ViewBag.Error</div>
+                        }
+
+
+                        <div class="sign">
+                            <a href="#" class="Forgot-Password">Forgot Password?</a>
+                            <a asp-action="Signup" asp-controller="User">Create Account</a>
+                        </div>
+                    </form>
+                </div>
+                <div class="right-side-image">
+                    <img src="./img/login.jpg" alt="to-do-list-image desktop login-page">
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

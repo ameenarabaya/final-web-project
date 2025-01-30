@@ -1,0 +1,262 @@
+.login {
+    padding-top: 20px;
+    display: flex;
+}
+
+    .login .container .row .left-side-image {
+        width: 40%;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        animation: SlideInLeft 1s;
+    }
+
+        .login .container .row .left-side-image img {
+            width: 100%;
+            height: 100%;
+        }
+
+    .login .container .row .right-side {
+        width: 50%;
+    }
+
+        .login .container .row .right-side h2 {
+            text-align: start;
+            margin: 0 0 20px 5px;
+        }
+
+        .login .container .row .right-side form {
+            width: 80%;
+            background-color: #f5dcf8;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            padding: 20px 0 10px 0;
+            border: 2px solid rgba(220, 220, 220, 0.552);
+            border-top-left-radius: 20px;
+            border-bottom-right-radius: 20px;
+        }
+
+            .login .container .row .right-side form .social-media {
+                padding-bottom: 5px;
+            }
+
+                .login .container .row .right-side form .social-media .row {
+                    justify-content: center;
+                    padding-bottom: 10px;
+                }
+
+                    .login .container .row .right-side form .social-media .row button {
+                        width: 300px;
+                        display: flex;
+                        gap: 5px;
+                        border-radius: 6px;
+                        border: 1px #eee;
+                        background-color: white;
+                        padding: 10px;
+                    }
+
+                        .login .container .row .right-side form .social-media .row button img {
+                            width: 20px;
+                        }
+
+                        .login .container .row .right-side form .social-media .row button a {
+                            color: black;
+                            display: flex;
+                            justify-content: center;
+                            align-items: center;
+                            margin-top: 4px;
+                        }
+
+            .login .container .row .right-side form .box {
+                display: flex;
+                flex-wrap: wrap;
+                flex-direction: column;
+                justify-content: center;
+            }
+
+            .login .container .row .right-side form input {
+                width: 400px;
+                height: 40px;
+                font-size: 14px;
+                background-color: white;
+                border: none;
+                border-radius: 6px;
+                margin: 3px 0 10px;
+                padding: 5px;
+            }
+
+                .login .container .row .right-side form input::placeholder {
+                    padding: 7px;
+                    font-size: 13px;
+                }
+
+/* @media */
+@media only screen and (min-width: 320px) and (max-width: 390px) {
+    .login .container .row .left-side-image {
+        display: none;
+    }
+
+    .container {
+        width: calc(100% - 100px);
+    }
+
+    .login .container .row .right-side {
+        width: 250px;
+    }
+
+        .login .container .row .right-side form {
+            width: 100%;
+            align-items: flex-start;
+        }
+
+            .login .container .row .right-side form .social-media .row {
+                width: 80%;
+            }
+
+                .login .container .row .right-side form .social-media .row button {
+                    width: 240px;
+                }
+
+            .login .container .row .right-side form input {
+                width: 200px;
+            }
+
+    a.account {
+        margin-left: 15px;
+    }
+}
+
+@media only screen and (min-width: 391px) and (max-width: 495px) {
+    .login .container .row .left-side-image {
+        display: none;
+    }
+
+    .container {
+        width: calc(100% - 100px);
+    }
+
+    .login .container .row .right-side {
+        width: 323px;
+    }
+
+        .login .container .row .right-side form {
+            width: 100%;
+        }
+
+            .login .container .row .right-side form .social-media .row {
+                width: 80%;
+            }
+
+                .login .container .row .right-side form .social-media .row button {
+                    width: 240px;
+                }
+
+            .login .container .row .right-side form input {
+                width: 250px;
+            }
+}
+
+@media only screen and (min-width: 496px) and (max-width: 719px) {
+    .login .container .row .left-side-image {
+        display: none;
+    }
+
+    .login .container .row {
+        justify-content: center;
+    }
+
+        .login .container .row .right-side form {
+            width: 100%;
+        }
+
+        .login .container .row .right-side {
+            width: 1000px;
+        }
+}
+
+@media only screen and (min-width: 720px) and (max-width: 1000px) {
+    .container {
+        width: calc(100% - 100px);
+    }
+
+    .login .container .row .left-side-image {
+        width: 35%;
+    }
+
+    .login .container .row .right-side {
+        width: 400px;
+    }
+
+        .login .container .row .right-side form {
+            width: 100%;
+        }
+
+            .login .container .row .right-side form .social-media .row button {
+                width: 250px;
+                align-items: center;
+                justify-content: center;
+            }
+
+            .login .container .row .right-side form input {
+                width: 300px;
+            }
+}
+
+@media only screen and (min-width: 1001px) and (max-width: 1399px) {
+    .container {
+        width: calc(100% - 200px);
+    }
+
+    .login .container .row .right-side {
+        width: 460px;
+    }
+
+        .login .container .row .right-side form {
+            width: 100%;
+        }
+
+            .login .container .row .right-side form .social-media .row button {
+                width: 250px;
+                align-items: center;
+                justify-content: center;
+            }
+
+            .login .container .row .right-side form input {
+                width: 300px;
+            }
+
+    .login .container .row .left-side-image {
+        width: 35%;
+    }
+}
+
+@media only screen and (min-width: 1400px) {
+    .login .container .row .right-side {
+        width: 55%;
+    }
+
+        .login .container .row .right-side form {
+            width: 560px;
+        }
+
+    .login .container .row .left-side-image {
+        width: 40%;
+    }
+
+        .login .container .row .left-side-image img {
+            width: 400px;
+        }
+}
+/* @keyframes */
+@keyframes SlideInLeft {
+    from {
+        transform: translateX(-100%);
+    }
+
+    to {
+        transform: translateX(0);
+    }
+}

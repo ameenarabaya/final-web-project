@@ -1,0 +1,21 @@
+﻿ @model TaskModel  
+ @{  
+     ViewData["Title"] = "Task Input";  
+ }  
+ <head>  
+
+     <link rel="stylesheet" href="@Url.Content("~/css/inputs.css")">  
+ </head>  
+ <body>
+    <div class="theInputs">
+        <h2>Add New Task</h2>
+        <form asp-action="AddTask" asp-controller="Task" method="post">
+            <input required asp-for="Title" placeholder="Write here" />
+            <input asp-for="Id" type="hidden" />
+            <input asp-for="UserId" value="@ViewBag.UserId" type="hidden" />
+            <input asp-for="Complete" value="false" type="hidden" />
+            <input type="submit" value="Add Task" class="btn-submit" />
+        </form>
+    </div>
+
+ </body>  

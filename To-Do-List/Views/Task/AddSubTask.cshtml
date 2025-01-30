@@ -1,0 +1,29 @@
+﻿@model SubTask
+@{
+    ViewData["Title"] = "Add Subtask";
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="@Url.Content("~/css/inputs.css")">
+</head>
+<body>
+    <div class="theInputs">
+        <h2>Add New Subtask</h2>
+
+        <form asp-action="AddSubTask" asp-controller="Task" method="post">
+           
+            <input required asp-for="Title" placeholder="Enter subtask title" class="form-input" />
+
+            
+            <input asp-for="Done" value="false" type="hidden" />
+            <input asp-for="TaskModelId" value="@ViewBag.TaskModelId" type="hidden" />
+
+            
+            <input type="submit" value="Add Subtask" class="btn-submit" />
+        </form>
+    </div>
+</body>
+</html>

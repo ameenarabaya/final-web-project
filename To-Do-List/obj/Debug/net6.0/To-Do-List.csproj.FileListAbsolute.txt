@@ -1,0 +1,691 @@
+D:\web.asp\To-Do-List\To-Do-List\bin\Debug\net6.0\appsettings.Development.json
+D:\web.asp\To-Do-List\To-Do-List\bin\Debug\net6.0\appsettings.json
+D:\web.asp\To-Do-List\To-Do-List\bin\Debug\net6.0\To-Do-List.staticwebassets.runtime.json
+D:\web.asp\To-Do-List\To-Do-List\bin\Debug\net6.0\To-Do-List.staticwebassets.endpoints.json
+D:\web.asp\To-Do-List\To-Do-List\bin\Debug\net6.0\To-Do-List.exe
+D:\web.asp\To-Do-List\To-Do-List\bin\Debug\net6.0\To-Do-List.deps.json
+D:\web.asp\To-Do-List\To-Do-List\bin\Debug\net6.0\To-Do-List.runtimeconfig.json
+D:\web.asp\To-Do-List\To-Do-List\bin\Debug\net6.0\To-Do-List.dll
+D:\web.asp\To-Do-List\To-Do-List\bin\Debug\net6.0\To-Do-List.pdb
+D:\web.asp\To-Do-List\To-Do-List\obj\Debug\net6.0\To-Do-List.GeneratedMSBuildEditorConfig.editorconfig
+D:\web.asp\To-Do-List\To-Do-List\obj\Debug\net6.0\To-Do-List.AssemblyInfoInputs.cache
+D:\web.asp\To-Do-List\To-Do-List\obj\Debug\net6.0\To-Do-List.AssemblyInfo.cs
+D:\web.asp\To-Do-List\To-Do-List\obj\Debug\net6.0\To-Do-List.csproj.CoreCompileInputs.cache
+D:\web.asp\To-Do-List\To-Do-List\obj\Debug\net6.0\To-Do-List.MvcApplicationPartsAssemblyInfo.cache
+D:\web.asp\To-Do-List\To-Do-List\obj\Debug\net6.0\To-Do-List.RazorAssemblyInfo.cache
+D:\web.asp\To-Do-List\To-Do-List\obj\Debug\net6.0\To-Do-List.RazorAssemblyInfo.cs
+D:\web.asp\To-Do-List\To-Do-List\obj\Debug\net6.0\To-Do-List.sourcelink.json
+D:\web.asp\To-Do-List\To-Do-List\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\web.asp\To-Do-List\To-Do-List\obj\Debug\net6.0\scopedcss\bundle\To-Do-List.styles.css
+D:\web.asp\To-Do-List\To-Do-List\obj\Debug\net6.0\scopedcss\projectbundle\To-Do-List.bundle.scp.css
+D:\web.asp\To-Do-List\To-Do-List\obj\Debug\net6.0\staticwebassets.build.json
+D:\web.asp\To-Do-List\To-Do-List\obj\Debug\net6.0\staticwebassets.development.json
+D:\web.asp\To-Do-List\To-Do-List\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+D:\web.asp\To-Do-List\To-Do-List\obj\Debug\net6.0\staticwebassets\msbuild.To-Do-List.Microsoft.AspNetCore.StaticWebAssets.props
+D:\web.asp\To-Do-List\To-Do-List\obj\Debug\net6.0\staticwebassets\msbuild.To-Do-List.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\web.asp\To-Do-List\To-Do-List\obj\Debug\net6.0\staticwebassets\msbuild.build.To-Do-List.props
+D:\web.asp\To-Do-List\To-Do-List\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.To-Do-List.props
+D:\web.asp\To-Do-List\To-Do-List\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.To-Do-List.props
+D:\web.asp\To-Do-List\To-Do-List\obj\Debug\net6.0\staticwebassets.pack.json
+D:\web.asp\To-Do-List\To-Do-List\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+D:\web.asp\To-Do-List\To-Do-List\obj\Debug\net6.0\To-Do-List.dll
+D:\web.asp\To-Do-List\To-Do-List\obj\Debug\net6.0\refint\To-Do-List.dll
+D:\web.asp\To-Do-List\To-Do-List\obj\Debug\net6.0\To-Do-List.pdb
+D:\web.asp\To-Do-List\To-Do-List\obj\Debug\net6.0\To-Do-List.genruntimeconfig.cache
+D:\web.asp\To-Do-List\To-Do-List\obj\Debug\net6.0\ref\To-Do-List.dll
+D:\web.asp\To-Do-List\To-Do-List\bin\Debug\net6.0\Humanizer.dll
+D:\web.asp\To-Do-List\To-Do-List\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\web.asp\To-Do-List\To-Do-List\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\web.asp\To-Do-List\To-Do-List\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\web.asp\To-Do-List\To-Do-List\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\web.asp\To-Do-List\To-Do-List\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\web.asp\To-Do-List\To-Do-List\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\web.asp\To-Do-List\To-Do-List\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\web.asp\To-Do-List\To-Do-List\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\web.asp\To-Do-List\To-Do-List\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\web.asp\To-Do-List\To-Do-List\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\web.asp\To-Do-List\To-Do-List\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\web.asp\To-Do-List\To-Do-List\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\web.asp\To-Do-List\To-Do-List\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\web.asp\To-Do-List\To-Do-List\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\web.asp\To-Do-List\To-Do-List\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\web.asp\To-Do-List\To-Do-List\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\web.asp\To-Do-List\To-Do-List\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\web.asp\To-Do-List\To-Do-List\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\web.asp\To-Do-List\To-Do-List\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\web.asp\To-Do-List\To-Do-List\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\web.asp\To-Do-List\To-Do-List\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\web.asp\To-Do-List\To-Do-List\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\web.asp\To-Do-List\To-Do-List\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\web.asp\To-Do-List\To-Do-List\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\web.asp\To-Do-List\To-Do-List\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\web.asp\To-Do-List\To-Do-List\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\web.asp\To-Do-List\To-Do-List\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\web.asp\To-Do-List\To-Do-List\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\web.asp\To-Do-List\To-Do-List\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\web.asp\To-Do-List\To-Do-List\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\web.asp\To-Do-List\To-Do-List\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\web.asp\To-Do-List\To-Do-List\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\web.asp\To-Do-List\To-Do-List\obj\Debug\net6.0\To-Do-List.csproj.AssemblyReference.cache
+D:\web.asp\To-Do-List\To-Do-List\obj\Debug\net6.0\To-Do-List.csproj.Up2Date
+C:\Users\Alfalak\Downloads\To-Do-List-Asp.Net-main\To-Do-List-Asp.Net-main\To-Do-List\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Alfalak\Downloads\To-Do-List-Asp.Net-main\To-Do-List-Asp.Net-main\To-Do-List\bin\Debug\net6.0\appsettings.json
+C:\Users\Alfalak\Downloads\To-Do-List-Asp.Net-main\To-Do-List-Asp.Net-main\To-Do-List\bin\Debug\net6.0\To-Do-List.staticwebassets.runtime.json
+C:\Users\Alfalak\Downloads\To-Do-List-Asp.Net-main\To-Do-List-Asp.Net-main\To-Do-List\bin\Debug\net6.0\To-Do-List.staticwebassets.endpoints.json
+C:\Users\Alfalak\Downloads\To-Do-List-Asp.Net-main\To-Do-List-Asp.Net-main\To-Do-List\bin\Debug\net6.0\To-Do-List.exe
+C:\Users\Alfalak\Downloads\To-Do-List-Asp.Net-main\To-Do-List-Asp.Net-main\To-Do-List\bin\Debug\net6.0\To-Do-List.deps.json
+C:\Users\Alfalak\Downloads\To-Do-List-Asp.Net-main\To-Do-List-Asp.Net-main\To-Do-List\bin\Debug\net6.0\To-Do-List.runtimeconfig.json
+C:\Users\Alfalak\Downloads\To-Do-List-Asp.Net-main\To-Do-List-Asp.Net-main\To-Do-List\bin\Debug\net6.0\To-Do-List.dll
+C:\Users\Alfalak\Downloads\To-Do-List-Asp.Net-main\To-Do-List-Asp.Net-main\To-Do-List\bin\Debug\net6.0\To-Do-List.pdb
+C:\Users\Alfalak\Downloads\To-Do-List-Asp.Net-main\To-Do-List-Asp.Net-main\To-Do-List\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Alfalak\Downloads\To-Do-List-Asp.Net-main\To-Do-List-Asp.Net-main\To-Do-List\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Alfalak\Downloads\To-Do-List-Asp.Net-main\To-Do-List-Asp.Net-main\To-Do-List\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Alfalak\Downloads\To-Do-List-Asp.Net-main\To-Do-List-Asp.Net-main\To-Do-List\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Alfalak\Downloads\To-Do-List-Asp.Net-main\To-Do-List-Asp.Net-main\To-Do-List\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Alfalak\Downloads\To-Do-List-Asp.Net-main\To-Do-List-Asp.Net-main\To-Do-List\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Alfalak\Downloads\To-Do-List-Asp.Net-main\To-Do-List-Asp.Net-main\To-Do-List\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Alfalak\Downloads\To-Do-List-Asp.Net-main\To-Do-List-Asp.Net-main\To-Do-List\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Alfalak\Downloads\To-Do-List-Asp.Net-main\To-Do-List-Asp.Net-main\To-Do-List\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Alfalak\Downloads\To-Do-List-Asp.Net-main\To-Do-List-Asp.Net-main\To-Do-List\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Alfalak\Downloads\To-Do-List-Asp.Net-main\To-Do-List-Asp.Net-main\To-Do-List\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Alfalak\Downloads\To-Do-List-Asp.Net-main\To-Do-List-Asp.Net-main\To-Do-List\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Alfalak\Downloads\To-Do-List-Asp.Net-main\To-Do-List-Asp.Net-main\To-Do-List\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Alfalak\Downloads\To-Do-List-Asp.Net-main\To-Do-List-Asp.Net-main\To-Do-List\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Alfalak\Downloads\To-Do-List-Asp.Net-main\To-Do-List-Asp.Net-main\To-Do-List\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Alfalak\Downloads\To-Do-List-Asp.Net-main\To-Do-List-Asp.Net-main\To-Do-List\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Alfalak\Downloads\To-Do-List-Asp.Net-main\To-Do-List-Asp.Net-main\To-Do-List\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Alfalak\Downloads\To-Do-List-Asp.Net-main\To-Do-List-Asp.Net-main\To-Do-List\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Alfalak\Downloads\To-Do-List-Asp.Net-main\To-Do-List-Asp.Net-main\To-Do-List\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Alfalak\Downloads\To-Do-List-Asp.Net-main\To-Do-List-Asp.Net-main\To-Do-List\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Alfalak\Downloads\To-Do-List-Asp.Net-main\To-Do-List-Asp.Net-main\To-Do-List\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Alfalak\Downloads\To-Do-List-Asp.Net-main\To-Do-List-Asp.Net-main\To-Do-List\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Alfalak\Downloads\To-Do-List-Asp.Net-main\To-Do-List-Asp.Net-main\To-Do-List\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Alfalak\Downloads\To-Do-List-Asp.Net-main\To-Do-List-Asp.Net-main\To-Do-List\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Alfalak\Downloads\To-Do-List-Asp.Net-main\To-Do-List-Asp.Net-main\To-Do-List\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Alfalak\Downloads\To-Do-List-Asp.Net-main\To-Do-List-Asp.Net-main\To-Do-List\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Alfalak\Downloads\To-Do-List-Asp.Net-main\To-Do-List-Asp.Net-main\To-Do-List\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Alfalak\Downloads\To-Do-List-Asp.Net-main\To-Do-List-Asp.Net-main\To-Do-List\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Alfalak\Downloads\To-Do-List-Asp.Net-main\To-Do-List-Asp.Net-main\To-Do-List\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Alfalak\Downloads\To-Do-List-Asp.Net-main\To-Do-List-Asp.Net-main\To-Do-List\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Alfalak\Downloads\To-Do-List-Asp.Net-main\To-Do-List-Asp.Net-main\To-Do-List\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Alfalak\Downloads\To-Do-List-Asp.Net-main\To-Do-List-Asp.Net-main\To-Do-List\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Alfalak\Downloads\To-Do-List-Asp.Net-main\To-Do-List-Asp.Net-main\To-Do-List\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Alfalak\Downloads\To-Do-List-Asp.Net-main\To-Do-List-Asp.Net-main\To-Do-List\obj\Debug\net6.0\To-Do-List.csproj.AssemblyReference.cache
+C:\Users\Alfalak\Downloads\To-Do-List-Asp.Net-main\To-Do-List-Asp.Net-main\To-Do-List\obj\Debug\net6.0\To-Do-List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alfalak\Downloads\To-Do-List-Asp.Net-main\To-Do-List-Asp.Net-main\To-Do-List\obj\Debug\net6.0\To-Do-List.AssemblyInfoInputs.cache
+C:\Users\Alfalak\Downloads\To-Do-List-Asp.Net-main\To-Do-List-Asp.Net-main\To-Do-List\obj\Debug\net6.0\To-Do-List.AssemblyInfo.cs
+C:\Users\Alfalak\Downloads\To-Do-List-Asp.Net-main\To-Do-List-Asp.Net-main\To-Do-List\obj\Debug\net6.0\To-Do-List.csproj.CoreCompileInputs.cache
+C:\Users\Alfalak\Downloads\To-Do-List-Asp.Net-main\To-Do-List-Asp.Net-main\To-Do-List\obj\Debug\net6.0\To-Do-List.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Alfalak\Downloads\To-Do-List-Asp.Net-main\To-Do-List-Asp.Net-main\To-Do-List\obj\Debug\net6.0\To-Do-List.RazorAssemblyInfo.cache
+C:\Users\Alfalak\Downloads\To-Do-List-Asp.Net-main\To-Do-List-Asp.Net-main\To-Do-List\obj\Debug\net6.0\To-Do-List.RazorAssemblyInfo.cs
+C:\Users\Alfalak\Downloads\To-Do-List-Asp.Net-main\To-Do-List-Asp.Net-main\To-Do-List\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Alfalak\Downloads\To-Do-List-Asp.Net-main\To-Do-List-Asp.Net-main\To-Do-List\obj\Debug\net6.0\scopedcss\bundle\To-Do-List.styles.css
+C:\Users\Alfalak\Downloads\To-Do-List-Asp.Net-main\To-Do-List-Asp.Net-main\To-Do-List\obj\Debug\net6.0\scopedcss\projectbundle\To-Do-List.bundle.scp.css
+C:\Users\Alfalak\Downloads\To-Do-List-Asp.Net-main\To-Do-List-Asp.Net-main\To-Do-List\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Alfalak\Downloads\To-Do-List-Asp.Net-main\To-Do-List-Asp.Net-main\To-Do-List\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Alfalak\Downloads\To-Do-List-Asp.Net-main\To-Do-List-Asp.Net-main\To-Do-List\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Users\Alfalak\Downloads\To-Do-List-Asp.Net-main\To-Do-List-Asp.Net-main\To-Do-List\obj\Debug\net6.0\staticwebassets\msbuild.To-Do-List.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Alfalak\Downloads\To-Do-List-Asp.Net-main\To-Do-List-Asp.Net-main\To-Do-List\obj\Debug\net6.0\staticwebassets\msbuild.To-Do-List.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Alfalak\Downloads\To-Do-List-Asp.Net-main\To-Do-List-Asp.Net-main\To-Do-List\obj\Debug\net6.0\staticwebassets\msbuild.build.To-Do-List.props
+C:\Users\Alfalak\Downloads\To-Do-List-Asp.Net-main\To-Do-List-Asp.Net-main\To-Do-List\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.To-Do-List.props
+C:\Users\Alfalak\Downloads\To-Do-List-Asp.Net-main\To-Do-List-Asp.Net-main\To-Do-List\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.To-Do-List.props
+C:\Users\Alfalak\Downloads\To-Do-List-Asp.Net-main\To-Do-List-Asp.Net-main\To-Do-List\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Alfalak\Downloads\To-Do-List-Asp.Net-main\To-Do-List-Asp.Net-main\To-Do-List\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+C:\Users\Alfalak\Downloads\To-Do-List-Asp.Net-main\To-Do-List-Asp.Net-main\To-Do-List\obj\Debug\net6.0\To-Do-List.csproj.Up2Date
+C:\Users\Alfalak\Downloads\To-Do-List-Asp.Net-main\To-Do-List-Asp.Net-main\To-Do-List\obj\Debug\net6.0\To-Do-List.dll
+C:\Users\Alfalak\Downloads\To-Do-List-Asp.Net-main\To-Do-List-Asp.Net-main\To-Do-List\obj\Debug\net6.0\refint\To-Do-List.dll
+C:\Users\Alfalak\Downloads\To-Do-List-Asp.Net-main\To-Do-List-Asp.Net-main\To-Do-List\obj\Debug\net6.0\To-Do-List.pdb
+C:\Users\Alfalak\Downloads\To-Do-List-Asp.Net-main\To-Do-List-Asp.Net-main\To-Do-List\obj\Debug\net6.0\To-Do-List.genruntimeconfig.cache
+C:\Users\Alfalak\Downloads\To-Do-List-Asp.Net-main\To-Do-List-Asp.Net-main\To-Do-List\obj\Debug\net6.0\ref\To-Do-List.dll
+C:\Users\CRC\Downloads\web-project2-main\To-Do-List\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\CRC\Downloads\web-project2-main\To-Do-List\bin\Debug\net6.0\appsettings.json
+C:\Users\CRC\Downloads\web-project2-main\To-Do-List\bin\Debug\net6.0\To-Do-List.staticwebassets.runtime.json
+C:\Users\CRC\Downloads\web-project2-main\To-Do-List\bin\Debug\net6.0\To-Do-List.staticwebassets.endpoints.json
+C:\Users\CRC\Downloads\web-project2-main\To-Do-List\bin\Debug\net6.0\To-Do-List.exe
+C:\Users\CRC\Downloads\web-project2-main\To-Do-List\bin\Debug\net6.0\To-Do-List.deps.json
+C:\Users\CRC\Downloads\web-project2-main\To-Do-List\bin\Debug\net6.0\To-Do-List.runtimeconfig.json
+C:\Users\CRC\Downloads\web-project2-main\To-Do-List\bin\Debug\net6.0\To-Do-List.dll
+C:\Users\CRC\Downloads\web-project2-main\To-Do-List\bin\Debug\net6.0\To-Do-List.pdb
+C:\Users\CRC\Downloads\web-project2-main\To-Do-List\bin\Debug\net6.0\Humanizer.dll
+C:\Users\CRC\Downloads\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\CRC\Downloads\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\CRC\Downloads\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\CRC\Downloads\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\CRC\Downloads\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\CRC\Downloads\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\CRC\Downloads\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\CRC\Downloads\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\CRC\Downloads\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\CRC\Downloads\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\CRC\Downloads\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\CRC\Downloads\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\CRC\Downloads\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\CRC\Downloads\web-project2-main\To-Do-List\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\CRC\Downloads\web-project2-main\To-Do-List\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\CRC\Downloads\web-project2-main\To-Do-List\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\CRC\Downloads\web-project2-main\To-Do-List\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\CRC\Downloads\web-project2-main\To-Do-List\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\CRC\Downloads\web-project2-main\To-Do-List\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\CRC\Downloads\web-project2-main\To-Do-List\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\CRC\Downloads\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\CRC\Downloads\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\CRC\Downloads\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CRC\Downloads\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CRC\Downloads\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CRC\Downloads\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CRC\Downloads\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\CRC\Downloads\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\CRC\Downloads\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\CRC\Downloads\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\CRC\Downloads\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\CRC\Downloads\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\CRC\Downloads\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.csproj.AssemblyReference.cache
+C:\Users\CRC\Downloads\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CRC\Downloads\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.AssemblyInfoInputs.cache
+C:\Users\CRC\Downloads\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.AssemblyInfo.cs
+C:\Users\CRC\Downloads\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.csproj.CoreCompileInputs.cache
+C:\Users\CRC\Downloads\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CRC\Downloads\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.RazorAssemblyInfo.cache
+C:\Users\CRC\Downloads\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.RazorAssemblyInfo.cs
+C:\Users\CRC\Downloads\web-project2-main\To-Do-List\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\CRC\Downloads\web-project2-main\To-Do-List\obj\Debug\net6.0\scopedcss\bundle\To-Do-List.styles.css
+C:\Users\CRC\Downloads\web-project2-main\To-Do-List\obj\Debug\net6.0\scopedcss\projectbundle\To-Do-List.bundle.scp.css
+C:\Users\CRC\Downloads\web-project2-main\To-Do-List\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\CRC\Downloads\web-project2-main\To-Do-List\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\CRC\Downloads\web-project2-main\To-Do-List\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Users\CRC\Downloads\web-project2-main\To-Do-List\obj\Debug\net6.0\staticwebassets\msbuild.To-Do-List.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\CRC\Downloads\web-project2-main\To-Do-List\obj\Debug\net6.0\staticwebassets\msbuild.To-Do-List.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\CRC\Downloads\web-project2-main\To-Do-List\obj\Debug\net6.0\staticwebassets\msbuild.build.To-Do-List.props
+C:\Users\CRC\Downloads\web-project2-main\To-Do-List\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.To-Do-List.props
+C:\Users\CRC\Downloads\web-project2-main\To-Do-List\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.To-Do-List.props
+C:\Users\CRC\Downloads\web-project2-main\To-Do-List\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\CRC\Downloads\web-project2-main\To-Do-List\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+C:\Users\CRC\Downloads\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.csproj.Up2Date
+C:\Users\CRC\Downloads\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.dll
+C:\Users\CRC\Downloads\web-project2-main\To-Do-List\obj\Debug\net6.0\refint\To-Do-List.dll
+C:\Users\CRC\Downloads\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.pdb
+C:\Users\CRC\Downloads\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.genruntimeconfig.cache
+C:\Users\CRC\Downloads\web-project2-main\To-Do-List\obj\Debug\net6.0\ref\To-Do-List.dll
+C:\Users\Alfalak\Downloads\web-project2-main\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.csproj.AssemblyReference.cache
+C:\Users\Alfalak\Downloads\web-project2-main\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alfalak\Downloads\web-project2-main\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.AssemblyInfoInputs.cache
+C:\Users\Alfalak\Downloads\web-project2-main\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.AssemblyInfo.cs
+C:\Users\Alfalak\Downloads\web-project2-main\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.csproj.CoreCompileInputs.cache
+C:\Users\Alfalak\Downloads\web-project2-main\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Alfalak\Downloads\web-project2-main\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.RazorAssemblyInfo.cache
+C:\Users\Alfalak\Downloads\web-project2-main\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.RazorAssemblyInfo.cs
+C:\Users\Alfalak\Downloads\web-project2-main\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.dll
+C:\Users\Alfalak\Downloads\web-project2-main\web-project2-main\To-Do-List\obj\Debug\net6.0\refint\To-Do-List.dll
+C:\Users\Alfalak\Downloads\web-project2-main\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.pdb
+C:\Users\Alfalak\Downloads\web-project2-main\web-project2-main\To-Do-List\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Alfalak\Downloads\web-project2-main\web-project2-main\To-Do-List\bin\Debug\net6.0\To-Do-List.staticwebassets.endpoints.json
+C:\Users\Alfalak\Downloads\web-project2-main\web-project2-main\To-Do-List\bin\Debug\net6.0\appsettings.json
+C:\Users\Alfalak\Downloads\web-project2-main\web-project2-main\To-Do-List\bin\Debug\net6.0\To-Do-List.staticwebassets.runtime.json
+C:\Users\Alfalak\Downloads\web-project2-main\web-project2-main\To-Do-List\bin\Debug\net6.0\To-Do-List.exe
+C:\Users\Alfalak\Downloads\web-project2-main\web-project2-main\To-Do-List\bin\Debug\net6.0\To-Do-List.deps.json
+C:\Users\Alfalak\Downloads\web-project2-main\web-project2-main\To-Do-List\bin\Debug\net6.0\To-Do-List.runtimeconfig.json
+C:\Users\Alfalak\Downloads\web-project2-main\web-project2-main\To-Do-List\bin\Debug\net6.0\To-Do-List.dll
+C:\Users\Alfalak\Downloads\web-project2-main\web-project2-main\To-Do-List\bin\Debug\net6.0\To-Do-List.pdb
+C:\Users\Alfalak\Downloads\web-project2-main\web-project2-main\To-Do-List\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Alfalak\Downloads\web-project2-main\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Alfalak\Downloads\web-project2-main\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Alfalak\Downloads\web-project2-main\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Alfalak\Downloads\web-project2-main\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Alfalak\Downloads\web-project2-main\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Alfalak\Downloads\web-project2-main\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Alfalak\Downloads\web-project2-main\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Alfalak\Downloads\web-project2-main\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Alfalak\Downloads\web-project2-main\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Alfalak\Downloads\web-project2-main\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Alfalak\Downloads\web-project2-main\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Alfalak\Downloads\web-project2-main\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Alfalak\Downloads\web-project2-main\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Alfalak\Downloads\web-project2-main\web-project2-main\To-Do-List\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Alfalak\Downloads\web-project2-main\web-project2-main\To-Do-List\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Alfalak\Downloads\web-project2-main\web-project2-main\To-Do-List\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Alfalak\Downloads\web-project2-main\web-project2-main\To-Do-List\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Alfalak\Downloads\web-project2-main\web-project2-main\To-Do-List\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Alfalak\Downloads\web-project2-main\web-project2-main\To-Do-List\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Alfalak\Downloads\web-project2-main\web-project2-main\To-Do-List\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Alfalak\Downloads\web-project2-main\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Alfalak\Downloads\web-project2-main\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Alfalak\Downloads\web-project2-main\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Alfalak\Downloads\web-project2-main\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Alfalak\Downloads\web-project2-main\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Alfalak\Downloads\web-project2-main\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Alfalak\Downloads\web-project2-main\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Alfalak\Downloads\web-project2-main\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Alfalak\Downloads\web-project2-main\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Alfalak\Downloads\web-project2-main\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Alfalak\Downloads\web-project2-main\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Alfalak\Downloads\web-project2-main\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Alfalak\Downloads\web-project2-main\web-project2-main\To-Do-List\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Alfalak\Downloads\web-project2-main\web-project2-main\To-Do-List\obj\Debug\net6.0\scopedcss\bundle\To-Do-List.styles.css
+C:\Users\Alfalak\Downloads\web-project2-main\web-project2-main\To-Do-List\obj\Debug\net6.0\scopedcss\projectbundle\To-Do-List.bundle.scp.css
+C:\Users\Alfalak\Downloads\web-project2-main\web-project2-main\To-Do-List\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Alfalak\Downloads\web-project2-main\web-project2-main\To-Do-List\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Alfalak\Downloads\web-project2-main\web-project2-main\To-Do-List\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Users\Alfalak\Downloads\web-project2-main\web-project2-main\To-Do-List\obj\Debug\net6.0\staticwebassets\msbuild.To-Do-List.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Alfalak\Downloads\web-project2-main\web-project2-main\To-Do-List\obj\Debug\net6.0\staticwebassets\msbuild.To-Do-List.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Alfalak\Downloads\web-project2-main\web-project2-main\To-Do-List\obj\Debug\net6.0\staticwebassets\msbuild.build.To-Do-List.props
+C:\Users\Alfalak\Downloads\web-project2-main\web-project2-main\To-Do-List\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.To-Do-List.props
+C:\Users\Alfalak\Downloads\web-project2-main\web-project2-main\To-Do-List\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.To-Do-List.props
+C:\Users\Alfalak\Downloads\web-project2-main\web-project2-main\To-Do-List\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Alfalak\Downloads\web-project2-main\web-project2-main\To-Do-List\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+C:\Users\Alfalak\Downloads\web-project2-main\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.csproj.Up2Date
+C:\Users\Alfalak\Downloads\web-project2-main\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.genruntimeconfig.cache
+C:\Users\Alfalak\Downloads\web-project2-main\web-project2-main\To-Do-List\obj\Debug\net6.0\ref\To-Do-List.dll
+C:\Users\Alfalak\Downloads\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Alfalak\Downloads\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\appsettings.json
+C:\Users\Alfalak\Downloads\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\To-Do-List.staticwebassets.endpoints.json
+C:\Users\Alfalak\Downloads\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\To-Do-List.staticwebassets.runtime.json
+C:\Users\Alfalak\Downloads\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\To-Do-List.exe
+C:\Users\Alfalak\Downloads\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\To-Do-List.deps.json
+C:\Users\Alfalak\Downloads\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\To-Do-List.runtimeconfig.json
+C:\Users\Alfalak\Downloads\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\To-Do-List.dll
+C:\Users\Alfalak\Downloads\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\To-Do-List.pdb
+C:\Users\Alfalak\Downloads\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Alfalak\Downloads\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Alfalak\Downloads\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Alfalak\Downloads\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Alfalak\Downloads\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Alfalak\Downloads\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Alfalak\Downloads\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Alfalak\Downloads\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Alfalak\Downloads\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Alfalak\Downloads\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Alfalak\Downloads\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Alfalak\Downloads\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Alfalak\Downloads\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Alfalak\Downloads\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Alfalak\Downloads\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Alfalak\Downloads\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Alfalak\Downloads\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Alfalak\Downloads\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Alfalak\Downloads\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Alfalak\Downloads\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Alfalak\Downloads\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Alfalak\Downloads\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Alfalak\Downloads\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Alfalak\Downloads\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Alfalak\Downloads\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Alfalak\Downloads\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Alfalak\Downloads\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Alfalak\Downloads\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Alfalak\Downloads\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Alfalak\Downloads\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Alfalak\Downloads\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Alfalak\Downloads\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Alfalak\Downloads\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Alfalak\Downloads\web-project2-main (1)\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.csproj.AssemblyReference.cache
+C:\Users\Alfalak\Downloads\web-project2-main (1)\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alfalak\Downloads\web-project2-main (1)\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.AssemblyInfoInputs.cache
+C:\Users\Alfalak\Downloads\web-project2-main (1)\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.AssemblyInfo.cs
+C:\Users\Alfalak\Downloads\web-project2-main (1)\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.csproj.CoreCompileInputs.cache
+C:\Users\Alfalak\Downloads\web-project2-main (1)\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Alfalak\Downloads\web-project2-main (1)\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.RazorAssemblyInfo.cache
+C:\Users\Alfalak\Downloads\web-project2-main (1)\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.RazorAssemblyInfo.cs
+C:\Users\Alfalak\Downloads\web-project2-main (1)\web-project2-main\To-Do-List\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Alfalak\Downloads\web-project2-main (1)\web-project2-main\To-Do-List\obj\Debug\net6.0\scopedcss\bundle\To-Do-List.styles.css
+C:\Users\Alfalak\Downloads\web-project2-main (1)\web-project2-main\To-Do-List\obj\Debug\net6.0\scopedcss\projectbundle\To-Do-List.bundle.scp.css
+C:\Users\Alfalak\Downloads\web-project2-main (1)\web-project2-main\To-Do-List\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Alfalak\Downloads\web-project2-main (1)\web-project2-main\To-Do-List\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Alfalak\Downloads\web-project2-main (1)\web-project2-main\To-Do-List\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Users\Alfalak\Downloads\web-project2-main (1)\web-project2-main\To-Do-List\obj\Debug\net6.0\staticwebassets\msbuild.To-Do-List.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Alfalak\Downloads\web-project2-main (1)\web-project2-main\To-Do-List\obj\Debug\net6.0\staticwebassets\msbuild.To-Do-List.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Alfalak\Downloads\web-project2-main (1)\web-project2-main\To-Do-List\obj\Debug\net6.0\staticwebassets\msbuild.build.To-Do-List.props
+C:\Users\Alfalak\Downloads\web-project2-main (1)\web-project2-main\To-Do-List\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.To-Do-List.props
+C:\Users\Alfalak\Downloads\web-project2-main (1)\web-project2-main\To-Do-List\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.To-Do-List.props
+C:\Users\Alfalak\Downloads\web-project2-main (1)\web-project2-main\To-Do-List\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Alfalak\Downloads\web-project2-main (1)\web-project2-main\To-Do-List\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+C:\Users\Alfalak\Downloads\web-project2-main (1)\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.csproj.Up2Date
+C:\Users\Alfalak\Downloads\web-project2-main (1)\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.dll
+C:\Users\Alfalak\Downloads\web-project2-main (1)\web-project2-main\To-Do-List\obj\Debug\net6.0\refint\To-Do-List.dll
+C:\Users\Alfalak\Downloads\web-project2-main (1)\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.pdb
+C:\Users\Alfalak\Downloads\web-project2-main (1)\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.genruntimeconfig.cache
+C:\Users\Alfalak\Downloads\web-project2-main (1)\web-project2-main\To-Do-List\obj\Debug\net6.0\ref\To-Do-List.dll
+C:\Users\Alfalak\Desktop\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Alfalak\Desktop\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\appsettings.json
+C:\Users\Alfalak\Desktop\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\To-Do-List.staticwebassets.endpoints.json
+C:\Users\Alfalak\Desktop\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\To-Do-List.staticwebassets.runtime.json
+C:\Users\Alfalak\Desktop\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\To-Do-List.exe
+C:\Users\Alfalak\Desktop\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\To-Do-List.deps.json
+C:\Users\Alfalak\Desktop\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\To-Do-List.runtimeconfig.json
+C:\Users\Alfalak\Desktop\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\To-Do-List.dll
+C:\Users\Alfalak\Desktop\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\To-Do-List.pdb
+C:\Users\Alfalak\Desktop\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Alfalak\Desktop\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Alfalak\Desktop\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Alfalak\Desktop\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Alfalak\Desktop\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Alfalak\Desktop\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Alfalak\Desktop\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Alfalak\Desktop\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Alfalak\Desktop\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Alfalak\Desktop\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Alfalak\Desktop\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Alfalak\Desktop\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Alfalak\Desktop\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Alfalak\Desktop\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Alfalak\Desktop\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Alfalak\Desktop\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Alfalak\Desktop\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Alfalak\Desktop\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Alfalak\Desktop\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Alfalak\Desktop\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Alfalak\Desktop\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Alfalak\Desktop\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Alfalak\Desktop\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Alfalak\Desktop\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Alfalak\Desktop\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Alfalak\Desktop\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Alfalak\Desktop\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Alfalak\Desktop\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Alfalak\Desktop\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Alfalak\Desktop\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Alfalak\Desktop\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Alfalak\Desktop\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Alfalak\Desktop\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Alfalak\Desktop\web-project2-main (1)\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.csproj.AssemblyReference.cache
+C:\Users\Alfalak\Desktop\web-project2-main (1)\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alfalak\Desktop\web-project2-main (1)\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.AssemblyInfoInputs.cache
+C:\Users\Alfalak\Desktop\web-project2-main (1)\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.AssemblyInfo.cs
+C:\Users\Alfalak\Desktop\web-project2-main (1)\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.csproj.CoreCompileInputs.cache
+C:\Users\Alfalak\Desktop\web-project2-main (1)\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Alfalak\Desktop\web-project2-main (1)\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.RazorAssemblyInfo.cache
+C:\Users\Alfalak\Desktop\web-project2-main (1)\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.RazorAssemblyInfo.cs
+C:\Users\Alfalak\Desktop\web-project2-main (1)\web-project2-main\To-Do-List\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Alfalak\Desktop\web-project2-main (1)\web-project2-main\To-Do-List\obj\Debug\net6.0\scopedcss\bundle\To-Do-List.styles.css
+C:\Users\Alfalak\Desktop\web-project2-main (1)\web-project2-main\To-Do-List\obj\Debug\net6.0\scopedcss\projectbundle\To-Do-List.bundle.scp.css
+C:\Users\Alfalak\Desktop\web-project2-main (1)\web-project2-main\To-Do-List\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Alfalak\Desktop\web-project2-main (1)\web-project2-main\To-Do-List\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Alfalak\Desktop\web-project2-main (1)\web-project2-main\To-Do-List\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Users\Alfalak\Desktop\web-project2-main (1)\web-project2-main\To-Do-List\obj\Debug\net6.0\staticwebassets\msbuild.To-Do-List.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Alfalak\Desktop\web-project2-main (1)\web-project2-main\To-Do-List\obj\Debug\net6.0\staticwebassets\msbuild.To-Do-List.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Alfalak\Desktop\web-project2-main (1)\web-project2-main\To-Do-List\obj\Debug\net6.0\staticwebassets\msbuild.build.To-Do-List.props
+C:\Users\Alfalak\Desktop\web-project2-main (1)\web-project2-main\To-Do-List\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.To-Do-List.props
+C:\Users\Alfalak\Desktop\web-project2-main (1)\web-project2-main\To-Do-List\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.To-Do-List.props
+C:\Users\Alfalak\Desktop\web-project2-main (1)\web-project2-main\To-Do-List\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Alfalak\Desktop\web-project2-main (1)\web-project2-main\To-Do-List\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+C:\Users\Alfalak\Desktop\web-project2-main (1)\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.csproj.Up2Date
+C:\Users\Alfalak\Desktop\web-project2-main (1)\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.dll
+C:\Users\Alfalak\Desktop\web-project2-main (1)\web-project2-main\To-Do-List\obj\Debug\net6.0\refint\To-Do-List.dll
+C:\Users\Alfalak\Desktop\web-project2-main (1)\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.pdb
+C:\Users\Alfalak\Desktop\web-project2-main (1)\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.genruntimeconfig.cache
+C:\Users\Alfalak\Desktop\web-project2-main (1)\web-project2-main\To-Do-List\obj\Debug\net6.0\ref\To-Do-List.dll
+C:\Users\CRC\Downloads\سنة رابعة فصل أول\Web\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\CRC\Downloads\سنة رابعة فصل أول\Web\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\appsettings.json
+C:\Users\CRC\Downloads\سنة رابعة فصل أول\Web\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\To-Do-List.staticwebassets.endpoints.json
+C:\Users\CRC\Downloads\سنة رابعة فصل أول\Web\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\To-Do-List.staticwebassets.runtime.json
+C:\Users\CRC\Downloads\سنة رابعة فصل أول\Web\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\To-Do-List.exe
+C:\Users\CRC\Downloads\سنة رابعة فصل أول\Web\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\To-Do-List.deps.json
+C:\Users\CRC\Downloads\سنة رابعة فصل أول\Web\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\To-Do-List.runtimeconfig.json
+C:\Users\CRC\Downloads\سنة رابعة فصل أول\Web\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\To-Do-List.dll
+C:\Users\CRC\Downloads\سنة رابعة فصل أول\Web\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\To-Do-List.pdb
+C:\Users\CRC\Downloads\سنة رابعة فصل أول\Web\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\Humanizer.dll
+C:\Users\CRC\Downloads\سنة رابعة فصل أول\Web\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\CRC\Downloads\سنة رابعة فصل أول\Web\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\CRC\Downloads\سنة رابعة فصل أول\Web\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\CRC\Downloads\سنة رابعة فصل أول\Web\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\CRC\Downloads\سنة رابعة فصل أول\Web\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\CRC\Downloads\سنة رابعة فصل أول\Web\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\CRC\Downloads\سنة رابعة فصل أول\Web\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\CRC\Downloads\سنة رابعة فصل أول\Web\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\CRC\Downloads\سنة رابعة فصل أول\Web\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\CRC\Downloads\سنة رابعة فصل أول\Web\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\CRC\Downloads\سنة رابعة فصل أول\Web\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\CRC\Downloads\سنة رابعة فصل أول\Web\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\CRC\Downloads\سنة رابعة فصل أول\Web\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\CRC\Downloads\سنة رابعة فصل أول\Web\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\CRC\Downloads\سنة رابعة فصل أول\Web\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\CRC\Downloads\سنة رابعة فصل أول\Web\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\CRC\Downloads\سنة رابعة فصل أول\Web\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\CRC\Downloads\سنة رابعة فصل أول\Web\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\CRC\Downloads\سنة رابعة فصل أول\Web\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\CRC\Downloads\سنة رابعة فصل أول\Web\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\CRC\Downloads\سنة رابعة فصل أول\Web\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\CRC\Downloads\سنة رابعة فصل أول\Web\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\CRC\Downloads\سنة رابعة فصل أول\Web\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CRC\Downloads\سنة رابعة فصل أول\Web\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CRC\Downloads\سنة رابعة فصل أول\Web\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CRC\Downloads\سنة رابعة فصل أول\Web\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CRC\Downloads\سنة رابعة فصل أول\Web\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\CRC\Downloads\سنة رابعة فصل أول\Web\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\CRC\Downloads\سنة رابعة فصل أول\Web\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\CRC\Downloads\سنة رابعة فصل أول\Web\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\CRC\Downloads\سنة رابعة فصل أول\Web\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\CRC\Downloads\سنة رابعة فصل أول\Web\web-project2-main (1)\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\CRC\Downloads\سنة رابعة فصل أول\Web\web-project2-main (1)\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.csproj.AssemblyReference.cache
+C:\Users\CRC\Downloads\سنة رابعة فصل أول\Web\web-project2-main (1)\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CRC\Downloads\سنة رابعة فصل أول\Web\web-project2-main (1)\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.AssemblyInfoInputs.cache
+C:\Users\CRC\Downloads\سنة رابعة فصل أول\Web\web-project2-main (1)\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.AssemblyInfo.cs
+C:\Users\CRC\Downloads\سنة رابعة فصل أول\Web\web-project2-main (1)\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.csproj.CoreCompileInputs.cache
+C:\Users\CRC\Downloads\سنة رابعة فصل أول\Web\web-project2-main (1)\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CRC\Downloads\سنة رابعة فصل أول\Web\web-project2-main (1)\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.RazorAssemblyInfo.cache
+C:\Users\CRC\Downloads\سنة رابعة فصل أول\Web\web-project2-main (1)\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.RazorAssemblyInfo.cs
+C:\Users\CRC\Downloads\سنة رابعة فصل أول\Web\web-project2-main (1)\web-project2-main\To-Do-List\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\CRC\Downloads\سنة رابعة فصل أول\Web\web-project2-main (1)\web-project2-main\To-Do-List\obj\Debug\net6.0\scopedcss\bundle\To-Do-List.styles.css
+C:\Users\CRC\Downloads\سنة رابعة فصل أول\Web\web-project2-main (1)\web-project2-main\To-Do-List\obj\Debug\net6.0\scopedcss\projectbundle\To-Do-List.bundle.scp.css
+C:\Users\CRC\Downloads\سنة رابعة فصل أول\Web\web-project2-main (1)\web-project2-main\To-Do-List\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\CRC\Downloads\سنة رابعة فصل أول\Web\web-project2-main (1)\web-project2-main\To-Do-List\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\CRC\Downloads\سنة رابعة فصل أول\Web\web-project2-main (1)\web-project2-main\To-Do-List\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Users\CRC\Downloads\سنة رابعة فصل أول\Web\web-project2-main (1)\web-project2-main\To-Do-List\obj\Debug\net6.0\staticwebassets\msbuild.To-Do-List.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\CRC\Downloads\سنة رابعة فصل أول\Web\web-project2-main (1)\web-project2-main\To-Do-List\obj\Debug\net6.0\staticwebassets\msbuild.To-Do-List.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\CRC\Downloads\سنة رابعة فصل أول\Web\web-project2-main (1)\web-project2-main\To-Do-List\obj\Debug\net6.0\staticwebassets\msbuild.build.To-Do-List.props
+C:\Users\CRC\Downloads\سنة رابعة فصل أول\Web\web-project2-main (1)\web-project2-main\To-Do-List\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.To-Do-List.props
+C:\Users\CRC\Downloads\سنة رابعة فصل أول\Web\web-project2-main (1)\web-project2-main\To-Do-List\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.To-Do-List.props
+C:\Users\CRC\Downloads\سنة رابعة فصل أول\Web\web-project2-main (1)\web-project2-main\To-Do-List\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\CRC\Downloads\سنة رابعة فصل أول\Web\web-project2-main (1)\web-project2-main\To-Do-List\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+C:\Users\CRC\Downloads\سنة رابعة فصل أول\Web\web-project2-main (1)\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.csproj.Up2Date
+C:\Users\CRC\Downloads\سنة رابعة فصل أول\Web\web-project2-main (1)\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.dll
+C:\Users\CRC\Downloads\سنة رابعة فصل أول\Web\web-project2-main (1)\web-project2-main\To-Do-List\obj\Debug\net6.0\refint\To-Do-List.dll
+C:\Users\CRC\Downloads\سنة رابعة فصل أول\Web\web-project2-main (1)\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.pdb
+C:\Users\CRC\Downloads\سنة رابعة فصل أول\Web\web-project2-main (1)\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.genruntimeconfig.cache
+C:\Users\CRC\Downloads\سنة رابعة فصل أول\Web\web-project2-main (1)\web-project2-main\To-Do-List\obj\Debug\net6.0\ref\To-Do-List.dll
+C:\Users\CRC\Downloads\web-project2-main (2)\web-project2-main\To-Do-List\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\CRC\Downloads\web-project2-main (2)\web-project2-main\To-Do-List\bin\Debug\net6.0\appsettings.json
+C:\Users\CRC\Downloads\web-project2-main (2)\web-project2-main\To-Do-List\bin\Debug\net6.0\To-Do-List.staticwebassets.endpoints.json
+C:\Users\CRC\Downloads\web-project2-main (2)\web-project2-main\To-Do-List\bin\Debug\net6.0\To-Do-List.staticwebassets.runtime.json
+C:\Users\CRC\Downloads\web-project2-main (2)\web-project2-main\To-Do-List\bin\Debug\net6.0\To-Do-List.exe
+C:\Users\CRC\Downloads\web-project2-main (2)\web-project2-main\To-Do-List\bin\Debug\net6.0\To-Do-List.deps.json
+C:\Users\CRC\Downloads\web-project2-main (2)\web-project2-main\To-Do-List\bin\Debug\net6.0\To-Do-List.runtimeconfig.json
+C:\Users\CRC\Downloads\web-project2-main (2)\web-project2-main\To-Do-List\bin\Debug\net6.0\To-Do-List.dll
+C:\Users\CRC\Downloads\web-project2-main (2)\web-project2-main\To-Do-List\bin\Debug\net6.0\To-Do-List.pdb
+C:\Users\CRC\Downloads\web-project2-main (2)\web-project2-main\To-Do-List\bin\Debug\net6.0\Humanizer.dll
+C:\Users\CRC\Downloads\web-project2-main (2)\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\CRC\Downloads\web-project2-main (2)\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\CRC\Downloads\web-project2-main (2)\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\CRC\Downloads\web-project2-main (2)\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\CRC\Downloads\web-project2-main (2)\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\CRC\Downloads\web-project2-main (2)\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\CRC\Downloads\web-project2-main (2)\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\CRC\Downloads\web-project2-main (2)\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\CRC\Downloads\web-project2-main (2)\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\CRC\Downloads\web-project2-main (2)\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\CRC\Downloads\web-project2-main (2)\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\CRC\Downloads\web-project2-main (2)\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\CRC\Downloads\web-project2-main (2)\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\CRC\Downloads\web-project2-main (2)\web-project2-main\To-Do-List\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\CRC\Downloads\web-project2-main (2)\web-project2-main\To-Do-List\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\CRC\Downloads\web-project2-main (2)\web-project2-main\To-Do-List\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\CRC\Downloads\web-project2-main (2)\web-project2-main\To-Do-List\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\CRC\Downloads\web-project2-main (2)\web-project2-main\To-Do-List\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\CRC\Downloads\web-project2-main (2)\web-project2-main\To-Do-List\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\CRC\Downloads\web-project2-main (2)\web-project2-main\To-Do-List\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\CRC\Downloads\web-project2-main (2)\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\CRC\Downloads\web-project2-main (2)\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\CRC\Downloads\web-project2-main (2)\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CRC\Downloads\web-project2-main (2)\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CRC\Downloads\web-project2-main (2)\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CRC\Downloads\web-project2-main (2)\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\CRC\Downloads\web-project2-main (2)\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\CRC\Downloads\web-project2-main (2)\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\CRC\Downloads\web-project2-main (2)\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\CRC\Downloads\web-project2-main (2)\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\CRC\Downloads\web-project2-main (2)\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\CRC\Downloads\web-project2-main (2)\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\CRC\Downloads\web-project2-main (2)\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.csproj.AssemblyReference.cache
+C:\Users\CRC\Downloads\web-project2-main (2)\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CRC\Downloads\web-project2-main (2)\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.AssemblyInfoInputs.cache
+C:\Users\CRC\Downloads\web-project2-main (2)\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.AssemblyInfo.cs
+C:\Users\CRC\Downloads\web-project2-main (2)\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.csproj.CoreCompileInputs.cache
+C:\Users\CRC\Downloads\web-project2-main (2)\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CRC\Downloads\web-project2-main (2)\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.RazorAssemblyInfo.cache
+C:\Users\CRC\Downloads\web-project2-main (2)\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.RazorAssemblyInfo.cs
+C:\Users\CRC\Downloads\web-project2-main (2)\web-project2-main\To-Do-List\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\CRC\Downloads\web-project2-main (2)\web-project2-main\To-Do-List\obj\Debug\net6.0\scopedcss\bundle\To-Do-List.styles.css
+C:\Users\CRC\Downloads\web-project2-main (2)\web-project2-main\To-Do-List\obj\Debug\net6.0\scopedcss\projectbundle\To-Do-List.bundle.scp.css
+C:\Users\CRC\Downloads\web-project2-main (2)\web-project2-main\To-Do-List\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\CRC\Downloads\web-project2-main (2)\web-project2-main\To-Do-List\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\CRC\Downloads\web-project2-main (2)\web-project2-main\To-Do-List\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Users\CRC\Downloads\web-project2-main (2)\web-project2-main\To-Do-List\obj\Debug\net6.0\staticwebassets\msbuild.To-Do-List.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\CRC\Downloads\web-project2-main (2)\web-project2-main\To-Do-List\obj\Debug\net6.0\staticwebassets\msbuild.To-Do-List.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\CRC\Downloads\web-project2-main (2)\web-project2-main\To-Do-List\obj\Debug\net6.0\staticwebassets\msbuild.build.To-Do-List.props
+C:\Users\CRC\Downloads\web-project2-main (2)\web-project2-main\To-Do-List\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.To-Do-List.props
+C:\Users\CRC\Downloads\web-project2-main (2)\web-project2-main\To-Do-List\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.To-Do-List.props
+C:\Users\CRC\Downloads\web-project2-main (2)\web-project2-main\To-Do-List\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\CRC\Downloads\web-project2-main (2)\web-project2-main\To-Do-List\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+C:\Users\CRC\Downloads\web-project2-main (2)\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.csproj.Up2Date
+C:\Users\CRC\Downloads\web-project2-main (2)\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.dll
+C:\Users\CRC\Downloads\web-project2-main (2)\web-project2-main\To-Do-List\obj\Debug\net6.0\refint\To-Do-List.dll
+C:\Users\CRC\Downloads\web-project2-main (2)\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.pdb
+C:\Users\CRC\Downloads\web-project2-main (2)\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.genruntimeconfig.cache
+C:\Users\CRC\Downloads\web-project2-main (2)\web-project2-main\To-Do-List\obj\Debug\net6.0\ref\To-Do-List.dll
+C:\Users\Alfalak\Desktop\web-project2-main (2)\web-project2-main\To-Do-List\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Alfalak\Desktop\web-project2-main (2)\web-project2-main\To-Do-List\bin\Debug\net6.0\appsettings.json
+C:\Users\Alfalak\Desktop\web-project2-main (2)\web-project2-main\To-Do-List\bin\Debug\net6.0\To-Do-List.staticwebassets.endpoints.json
+C:\Users\Alfalak\Desktop\web-project2-main (2)\web-project2-main\To-Do-List\bin\Debug\net6.0\To-Do-List.staticwebassets.runtime.json
+C:\Users\Alfalak\Desktop\web-project2-main (2)\web-project2-main\To-Do-List\bin\Debug\net6.0\To-Do-List.exe
+C:\Users\Alfalak\Desktop\web-project2-main (2)\web-project2-main\To-Do-List\bin\Debug\net6.0\To-Do-List.deps.json
+C:\Users\Alfalak\Desktop\web-project2-main (2)\web-project2-main\To-Do-List\bin\Debug\net6.0\To-Do-List.runtimeconfig.json
+C:\Users\Alfalak\Desktop\web-project2-main (2)\web-project2-main\To-Do-List\bin\Debug\net6.0\To-Do-List.dll
+C:\Users\Alfalak\Desktop\web-project2-main (2)\web-project2-main\To-Do-List\bin\Debug\net6.0\To-Do-List.pdb
+C:\Users\Alfalak\Desktop\web-project2-main (2)\web-project2-main\To-Do-List\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Alfalak\Desktop\web-project2-main (2)\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Alfalak\Desktop\web-project2-main (2)\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Alfalak\Desktop\web-project2-main (2)\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Alfalak\Desktop\web-project2-main (2)\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Alfalak\Desktop\web-project2-main (2)\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Alfalak\Desktop\web-project2-main (2)\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Alfalak\Desktop\web-project2-main (2)\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Alfalak\Desktop\web-project2-main (2)\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Alfalak\Desktop\web-project2-main (2)\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Alfalak\Desktop\web-project2-main (2)\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Alfalak\Desktop\web-project2-main (2)\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Alfalak\Desktop\web-project2-main (2)\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Alfalak\Desktop\web-project2-main (2)\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Alfalak\Desktop\web-project2-main (2)\web-project2-main\To-Do-List\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Alfalak\Desktop\web-project2-main (2)\web-project2-main\To-Do-List\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Alfalak\Desktop\web-project2-main (2)\web-project2-main\To-Do-List\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Alfalak\Desktop\web-project2-main (2)\web-project2-main\To-Do-List\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Alfalak\Desktop\web-project2-main (2)\web-project2-main\To-Do-List\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Alfalak\Desktop\web-project2-main (2)\web-project2-main\To-Do-List\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Alfalak\Desktop\web-project2-main (2)\web-project2-main\To-Do-List\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Alfalak\Desktop\web-project2-main (2)\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Alfalak\Desktop\web-project2-main (2)\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Alfalak\Desktop\web-project2-main (2)\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Alfalak\Desktop\web-project2-main (2)\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Alfalak\Desktop\web-project2-main (2)\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Alfalak\Desktop\web-project2-main (2)\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Alfalak\Desktop\web-project2-main (2)\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Alfalak\Desktop\web-project2-main (2)\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Alfalak\Desktop\web-project2-main (2)\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Alfalak\Desktop\web-project2-main (2)\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Alfalak\Desktop\web-project2-main (2)\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Alfalak\Desktop\web-project2-main (2)\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Alfalak\Desktop\web-project2-main (2)\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.csproj.AssemblyReference.cache
+C:\Users\Alfalak\Desktop\web-project2-main (2)\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alfalak\Desktop\web-project2-main (2)\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.AssemblyInfoInputs.cache
+C:\Users\Alfalak\Desktop\web-project2-main (2)\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.AssemblyInfo.cs
+C:\Users\Alfalak\Desktop\web-project2-main (2)\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.csproj.CoreCompileInputs.cache
+C:\Users\Alfalak\Desktop\web-project2-main (2)\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Alfalak\Desktop\web-project2-main (2)\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.RazorAssemblyInfo.cache
+C:\Users\Alfalak\Desktop\web-project2-main (2)\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.RazorAssemblyInfo.cs
+C:\Users\Alfalak\Desktop\web-project2-main (2)\web-project2-main\To-Do-List\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Alfalak\Desktop\web-project2-main (2)\web-project2-main\To-Do-List\obj\Debug\net6.0\scopedcss\bundle\To-Do-List.styles.css
+C:\Users\Alfalak\Desktop\web-project2-main (2)\web-project2-main\To-Do-List\obj\Debug\net6.0\scopedcss\projectbundle\To-Do-List.bundle.scp.css
+C:\Users\Alfalak\Desktop\web-project2-main (2)\web-project2-main\To-Do-List\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Alfalak\Desktop\web-project2-main (2)\web-project2-main\To-Do-List\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Alfalak\Desktop\web-project2-main (2)\web-project2-main\To-Do-List\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Users\Alfalak\Desktop\web-project2-main (2)\web-project2-main\To-Do-List\obj\Debug\net6.0\staticwebassets\msbuild.To-Do-List.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Alfalak\Desktop\web-project2-main (2)\web-project2-main\To-Do-List\obj\Debug\net6.0\staticwebassets\msbuild.To-Do-List.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Alfalak\Desktop\web-project2-main (2)\web-project2-main\To-Do-List\obj\Debug\net6.0\staticwebassets\msbuild.build.To-Do-List.props
+C:\Users\Alfalak\Desktop\web-project2-main (2)\web-project2-main\To-Do-List\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.To-Do-List.props
+C:\Users\Alfalak\Desktop\web-project2-main (2)\web-project2-main\To-Do-List\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.To-Do-List.props
+C:\Users\Alfalak\Desktop\web-project2-main (2)\web-project2-main\To-Do-List\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Alfalak\Desktop\web-project2-main (2)\web-project2-main\To-Do-List\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+C:\Users\Alfalak\Desktop\web-project2-main (2)\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.csproj.Up2Date
+C:\Users\Alfalak\Desktop\web-project2-main (2)\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.dll
+C:\Users\Alfalak\Desktop\web-project2-main (2)\web-project2-main\To-Do-List\obj\Debug\net6.0\refint\To-Do-List.dll
+C:\Users\Alfalak\Desktop\web-project2-main (2)\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.pdb
+C:\Users\Alfalak\Desktop\web-project2-main (2)\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.genruntimeconfig.cache
+C:\Users\Alfalak\Desktop\web-project2-main (2)\web-project2-main\To-Do-List\obj\Debug\net6.0\ref\To-Do-List.dll
+C:\Users\Alfalak\Desktop\finalWebProject\web-project2-main\To-Do-List\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Alfalak\Desktop\finalWebProject\web-project2-main\To-Do-List\bin\Debug\net6.0\appsettings.json
+C:\Users\Alfalak\Desktop\finalWebProject\web-project2-main\To-Do-List\bin\Debug\net6.0\To-Do-List.staticwebassets.endpoints.json
+C:\Users\Alfalak\Desktop\finalWebProject\web-project2-main\To-Do-List\bin\Debug\net6.0\To-Do-List.staticwebassets.runtime.json
+C:\Users\Alfalak\Desktop\finalWebProject\web-project2-main\To-Do-List\bin\Debug\net6.0\To-Do-List.exe
+C:\Users\Alfalak\Desktop\finalWebProject\web-project2-main\To-Do-List\bin\Debug\net6.0\To-Do-List.deps.json
+C:\Users\Alfalak\Desktop\finalWebProject\web-project2-main\To-Do-List\bin\Debug\net6.0\To-Do-List.runtimeconfig.json
+C:\Users\Alfalak\Desktop\finalWebProject\web-project2-main\To-Do-List\bin\Debug\net6.0\To-Do-List.dll
+C:\Users\Alfalak\Desktop\finalWebProject\web-project2-main\To-Do-List\bin\Debug\net6.0\To-Do-List.pdb
+C:\Users\Alfalak\Desktop\finalWebProject\web-project2-main\To-Do-List\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Alfalak\Desktop\finalWebProject\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Alfalak\Desktop\finalWebProject\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Alfalak\Desktop\finalWebProject\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Alfalak\Desktop\finalWebProject\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Alfalak\Desktop\finalWebProject\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Alfalak\Desktop\finalWebProject\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Alfalak\Desktop\finalWebProject\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Alfalak\Desktop\finalWebProject\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Alfalak\Desktop\finalWebProject\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Alfalak\Desktop\finalWebProject\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Alfalak\Desktop\finalWebProject\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Alfalak\Desktop\finalWebProject\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Alfalak\Desktop\finalWebProject\web-project2-main\To-Do-List\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Alfalak\Desktop\finalWebProject\web-project2-main\To-Do-List\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Alfalak\Desktop\finalWebProject\web-project2-main\To-Do-List\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Alfalak\Desktop\finalWebProject\web-project2-main\To-Do-List\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Alfalak\Desktop\finalWebProject\web-project2-main\To-Do-List\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Alfalak\Desktop\finalWebProject\web-project2-main\To-Do-List\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Alfalak\Desktop\finalWebProject\web-project2-main\To-Do-List\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Alfalak\Desktop\finalWebProject\web-project2-main\To-Do-List\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Alfalak\Desktop\finalWebProject\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Alfalak\Desktop\finalWebProject\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Alfalak\Desktop\finalWebProject\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Alfalak\Desktop\finalWebProject\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Alfalak\Desktop\finalWebProject\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Alfalak\Desktop\finalWebProject\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Alfalak\Desktop\finalWebProject\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Alfalak\Desktop\finalWebProject\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Alfalak\Desktop\finalWebProject\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Alfalak\Desktop\finalWebProject\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Alfalak\Desktop\finalWebProject\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Alfalak\Desktop\finalWebProject\web-project2-main\To-Do-List\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Alfalak\Desktop\finalWebProject\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.csproj.AssemblyReference.cache
+C:\Users\Alfalak\Desktop\finalWebProject\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alfalak\Desktop\finalWebProject\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.AssemblyInfoInputs.cache
+C:\Users\Alfalak\Desktop\finalWebProject\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.AssemblyInfo.cs
+C:\Users\Alfalak\Desktop\finalWebProject\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.csproj.CoreCompileInputs.cache
+C:\Users\Alfalak\Desktop\finalWebProject\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Alfalak\Desktop\finalWebProject\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.RazorAssemblyInfo.cache
+C:\Users\Alfalak\Desktop\finalWebProject\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.RazorAssemblyInfo.cs
+C:\Users\Alfalak\Desktop\finalWebProject\web-project2-main\To-Do-List\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Alfalak\Desktop\finalWebProject\web-project2-main\To-Do-List\obj\Debug\net6.0\scopedcss\bundle\To-Do-List.styles.css
+C:\Users\Alfalak\Desktop\finalWebProject\web-project2-main\To-Do-List\obj\Debug\net6.0\scopedcss\projectbundle\To-Do-List.bundle.scp.css
+C:\Users\Alfalak\Desktop\finalWebProject\web-project2-main\To-Do-List\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Alfalak\Desktop\finalWebProject\web-project2-main\To-Do-List\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Alfalak\Desktop\finalWebProject\web-project2-main\To-Do-List\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Users\Alfalak\Desktop\finalWebProject\web-project2-main\To-Do-List\obj\Debug\net6.0\staticwebassets\msbuild.To-Do-List.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Alfalak\Desktop\finalWebProject\web-project2-main\To-Do-List\obj\Debug\net6.0\staticwebassets\msbuild.To-Do-List.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Alfalak\Desktop\finalWebProject\web-project2-main\To-Do-List\obj\Debug\net6.0\staticwebassets\msbuild.build.To-Do-List.props
+C:\Users\Alfalak\Desktop\finalWebProject\web-project2-main\To-Do-List\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.To-Do-List.props
+C:\Users\Alfalak\Desktop\finalWebProject\web-project2-main\To-Do-List\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.To-Do-List.props
+C:\Users\Alfalak\Desktop\finalWebProject\web-project2-main\To-Do-List\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Alfalak\Desktop\finalWebProject\web-project2-main\To-Do-List\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+C:\Users\Alfalak\Desktop\finalWebProject\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.csproj.Up2Date
+C:\Users\Alfalak\Desktop\finalWebProject\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.dll
+C:\Users\Alfalak\Desktop\finalWebProject\web-project2-main\To-Do-List\obj\Debug\net6.0\refint\To-Do-List.dll
+C:\Users\Alfalak\Desktop\finalWebProject\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.pdb
+C:\Users\Alfalak\Desktop\finalWebProject\web-project2-main\To-Do-List\obj\Debug\net6.0\To-Do-List.genruntimeconfig.cache
+C:\Users\Alfalak\Desktop\finalWebProject\web-project2-main\To-Do-List\obj\Debug\net6.0\ref\To-Do-List.dll

@@ -1,0 +1,120 @@
+﻿  @model List<TaskModel>
+ 
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/css/main.css">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
+    <title>To Do List</title>
+</head>
+
+<body>
+    
+    <div class="contains d-flex justify-content-center">
+        <div class="container">
+            <div class="title d-flex justify-content-between align-items-center">
+                <h1 class="ms-4 mt-2 animate__animated  animate__slideInLeft">welcome @ViewBag.userName </h1>
+                <a asp-action="AddTask" asp-controller="Task" class="add rounded-4" style="text-decoration:none; border-radius:10px; border:2px solid;">+add</a>
+            </div>
+            <div class="notes bg-white rounded d-flex flex-wrap justify-content-center gap-3 p-5 position-relative" id="note">
+
+                @if (Model.Count() == 0)
+                {
+                    <div class="text-center fs-4" style="color:#00000059; position:absolute; top:50%; left:50%; transform: translate(-50%, -50%); user-select:none;  ">
+                        clik to the botton +add to add task
+                    </div>
+                }
+                @for (int i = 0, s = 0; i < Model.Count(); i++, s++)
+                {
+                        if (s >= ((List<string>)ViewBag.color).Count)
+                    {
+                        s = 0;
+                    }
+                    <div class="note s2 p-2 rounded" style="background-color:@ViewBag.color[s]">
+                        <div class="icons" style="border-radius:15px;">
+                            <div class="edit">
+                                <a asp-route-id="@Model[i].Id" asp-action="EditTask" asp-controller="Task">
+                                    
+                                    <i class="fa-regular fa-pen-to-square" style="color: #121b2b;"></i>
+
+                                </a>
+                            </div>
+                            <div class="delete">
+                                <a asp-route-id="@Model[i].Id" asp-action="DeleteTask" asp-controller="Task"><i class="fa-solid fa-trash-can" style="color: #121b2b;"></i></a>
+                            </div>
+                           
+                        </div>
+                        <div class="d-flex justify-content-between align-items-center mb-2">
+                        <h5 class="position-relative title ">
+                            <i class="fa-solid fa-thumbtack"></i>
+                            @Model[i].Title
+                        </h5>
+                            <a asp-route-id="@Model[i].Id" asp-action="AddSubTask" asp-controller="Task"><i class="fa-regular fa-square-plus" style="color: #121b2b;"></i></a>
+                        </div>
+                       
+                        <div class="theTasks d-flex flex-column">
+                            @if(@Model[i].SubTasks.Count() == 0){
+                                <div class="text-center" style="color:#00000059; position:absolute; top:50%; left:50%; transform: translate(-50%, -50%); user-select:none;  ">
+                                    clik to the <i class="fa-regular fa-square-plus" style=""></i> to add task
+                                </div>
+                            }
+                            @foreach (var Sub in @Model[i].SubTasks){
+                                @if (Sub.Done)
+                                {
+                                <div class="d-flex justify-content-between mb-2 ">
+                                    <div>
+                                 <a><i class="fa-solid fa-check-double"></i></a>
+                                <span style="font-weight:bold; margin-left:3px;">@Sub.Title</span>
+                                    </div>
+                                <div class="subTaskicon">
+                                    <span class="me-2"><a asp-route-id="@Sub.Id" asp-action="DeleteSubTask" asp-controller="Task"><i class="fa-solid fa-eraser" style="color: #121b2b;"></i></a></span>
+
+                                    <span><a asp-route-id="@Sub.Id" asp-action="EditSubTask" asp-controller="Task"><i class="fa-solid fa-marker" style="color: #121b2b;"></i></a></span>
+
+                              </div>
+                                </div>
+                                } else{
+                                    <div class="d-flex justify-content-between mb-2 ">
+                                        <div>
+                                            <i class="fa-regular fa-clock"></i>
+                                            <span style="font-weight:bold;  margin-left:3px;">@Sub.Title</span>
+                                        </div>
+                                        <div class="subTaskicon">
+                                            <span class="me-2"><a asp-route-id="@Sub.Id" asp-action="DeleteSubTask" asp-controller="Task"><i class="fa-solid fa-eraser" style="color: #121b2b;"></i></a></span>
+
+                                            <span><a asp-route-id="@Sub.Id" asp-action="EditSubTask" asp-controller="Task"><i class="fa-solid fa-marker" style="color: #121b2b;"></i></a></span>
+
+                                        </div>
+                                    </div>
+                                }
+
+                            } 
+                            
+                        </div>
+                        @if (@Model[i].Complete){
+                            <div class="position-absolute" style="right: 5px; bottom: 5px;"> <a><i class="fa-solid fa-check-double"></i></a></div>
+
+                        }            
+                        </div>
+                }
+            </div>
+            <a asp-action="Logout" asp-controller="User" class="add  d-flex justify-content-center align-items-center" style="text-decoration:none; background-color:white; padding:5px; color:purple;
+border-radius:10px;
+border:2px solid;
+position:absolute;
+right:100px;
+width:90px;
+height:35px;
+font-weight:bold;
+" onmouseover="this.style.backgroundColor='purple'; this.style.color='white';"
+               onmouseout="this.style.backgroundColor='white'; this.style.color='purple';">Logout</a>
+        </div>
+    </div>
+</body>
+
+</html>
