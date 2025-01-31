@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "RD8944OJHB+/HUR1QBzWSvKxRDG4yyzIUPyhAuvq9QI=",
+  "Hash": "kYybQTpspahtSUYJvIXK5GKOOamChd2D8oKXaHMTPBM=",
   "Source": "To-Do-List",
   "BasePath": "_content/To-Do-List",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "To-Do-List\\wwwroot",
       "Source": "To-Do-List",
-      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\",
       "BasePath": "_content/To-Do-List",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\obj\\Debug\\net6.0\\scopedcss\\bundle\\To-Do-List.styles.css",
+      "Identity": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\obj\\Debug\\net6.0\\scopedcss\\bundle\\To-Do-List.styles.css",
       "SourceId": "To-Do-List",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/To-Do-List",
       "RelativePath": "To-Do-List#[.{fingerprint}]?.styles.css",
       "AssetKind": "All",
@@ -35,13 +35,13 @@
       "Integrity": "gkcWLH+3vkhV+9uz1dDt5UC0lGBRH3udSTKPr3av6uI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\obj\\Debug\\net6.0\\scopedcss\\bundle\\To-Do-List.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\obj\\Debug\\net6.0\\scopedcss\\bundle\\To-Do-List.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\To-Do-List.bundle.scp.css",
+      "Identity": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\To-Do-List.bundle.scp.css",
       "SourceId": "To-Do-List",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/To-Do-List",
       "RelativePath": "To-Do-List#[.{fingerprint}]!.bundle.scp.css",
       "AssetKind": "All",
@@ -56,13 +56,13 @@
       "Integrity": "gkcWLH+3vkhV+9uz1dDt5UC0lGBRH3udSTKPr3av6uI=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\To-Do-List.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\To-Do-List.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\css\\base.css",
+      "Identity": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\css\\base.css",
       "SourceId": "To-Do-List",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\",
       "BasePath": "_content/To-Do-List",
       "RelativePath": "css/base#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -80,10 +80,10 @@
       "OriginalItemSpec": "wwwroot\\css\\base.css"
     },
     {
-      "Identity": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\css\\inputs.css",
+      "Identity": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\css\\inputs.css",
       "SourceId": "To-Do-List",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\",
       "BasePath": "_content/To-Do-List",
       "RelativePath": "css/inputs#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -101,10 +101,10 @@
       "OriginalItemSpec": "wwwroot\\css\\inputs.css"
     },
     {
-      "Identity": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\css\\login.css",
+      "Identity": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\css\\login.css",
       "SourceId": "To-Do-List",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\",
       "BasePath": "_content/To-Do-List",
       "RelativePath": "css/login#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -122,10 +122,10 @@
       "OriginalItemSpec": "wwwroot\\css\\login.css"
     },
     {
-      "Identity": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\css\\main.css",
+      "Identity": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\css\\main.css",
       "SourceId": "To-Do-List",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\",
       "BasePath": "_content/To-Do-List",
       "RelativePath": "css/main#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -143,10 +143,10 @@
       "OriginalItemSpec": "wwwroot\\css\\main.css"
     },
     {
-      "Identity": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\css\\signUp.css",
+      "Identity": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\css\\signUp.css",
       "SourceId": "To-Do-List",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\",
       "BasePath": "_content/To-Do-List",
       "RelativePath": "css/signUp#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -164,10 +164,10 @@
       "OriginalItemSpec": "wwwroot\\css\\signUp.css"
     },
     {
-      "Identity": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\css\\site.css",
       "SourceId": "To-Do-List",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\",
       "BasePath": "_content/To-Do-List",
       "RelativePath": "css/site#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -185,10 +185,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\favicon.ico",
       "SourceId": "To-Do-List",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\",
       "BasePath": "_content/To-Do-List",
       "RelativePath": "favicon#[.{fingerprint}]?.ico",
       "AssetKind": "All",
@@ -206,10 +206,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\img\\apple.svg",
+      "Identity": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\img\\apple.svg",
       "SourceId": "To-Do-List",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\",
       "BasePath": "_content/To-Do-List",
       "RelativePath": "img/apple#[.{fingerprint}]?.svg",
       "AssetKind": "All",
@@ -227,10 +227,10 @@
       "OriginalItemSpec": "wwwroot\\img\\apple.svg"
     },
     {
-      "Identity": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\img\\facebook.svg",
+      "Identity": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\img\\facebook.svg",
       "SourceId": "To-Do-List",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\",
       "BasePath": "_content/To-Do-List",
       "RelativePath": "img/facebook#[.{fingerprint}]?.svg",
       "AssetKind": "All",
@@ -248,10 +248,10 @@
       "OriginalItemSpec": "wwwroot\\img\\facebook.svg"
     },
     {
-      "Identity": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\img\\facebook-brands-solid.svg",
+      "Identity": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\img\\facebook-brands-solid.svg",
       "SourceId": "To-Do-List",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\",
       "BasePath": "_content/To-Do-List",
       "RelativePath": "img/facebook-brands-solid#[.{fingerprint}]?.svg",
       "AssetKind": "All",
@@ -269,10 +269,10 @@
       "OriginalItemSpec": "wwwroot\\img\\facebook-brands-solid.svg"
     },
     {
-      "Identity": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\img\\google.svg",
+      "Identity": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\img\\google.svg",
       "SourceId": "To-Do-List",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\",
       "BasePath": "_content/To-Do-List",
       "RelativePath": "img/google#[.{fingerprint}]?.svg",
       "AssetKind": "All",
@@ -290,10 +290,10 @@
       "OriginalItemSpec": "wwwroot\\img\\google.svg"
     },
     {
-      "Identity": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\img\\Google__G__logo.svg.webp",
+      "Identity": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\img\\Google__G__logo.svg.webp",
       "SourceId": "To-Do-List",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\",
       "BasePath": "_content/To-Do-List",
       "RelativePath": "img/Google__G__logo.svg#[.{fingerprint}]?.webp",
       "AssetKind": "All",
@@ -311,10 +311,10 @@
       "OriginalItemSpec": "wwwroot\\img\\Google__G__logo.svg.webp"
     },
     {
-      "Identity": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\img\\login.jpg",
+      "Identity": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\img\\login.jpg",
       "SourceId": "To-Do-List",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\",
       "BasePath": "_content/To-Do-List",
       "RelativePath": "img/login#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -332,10 +332,10 @@
       "OriginalItemSpec": "wwwroot\\img\\login.jpg"
     },
     {
-      "Identity": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\img\\login_image.png",
+      "Identity": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\img\\login_image.png",
       "SourceId": "To-Do-List",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\",
       "BasePath": "_content/To-Do-List",
       "RelativePath": "img/login_image#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -353,10 +353,10 @@
       "OriginalItemSpec": "wwwroot\\img\\login_image.png"
     },
     {
-      "Identity": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\img\\title-icon.png",
+      "Identity": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\img\\title-icon.png",
       "SourceId": "To-Do-List",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\",
       "BasePath": "_content/To-Do-List",
       "RelativePath": "img/title-icon#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\img\\title-icon.png"
     },
     {
-      "Identity": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\js\\site.js",
       "SourceId": "To-Do-List",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\",
       "BasePath": "_content/To-Do-List",
       "RelativePath": "js/site#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -395,10 +395,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "To-Do-List",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\",
       "BasePath": "_content/To-Do-List",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "To-Do-List",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\",
       "BasePath": "_content/To-Do-List",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -437,10 +437,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "To-Do-List",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\",
       "BasePath": "_content/To-Do-List",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -458,10 +458,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "To-Do-List",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\",
       "BasePath": "_content/To-Do-List",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -479,10 +479,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "To-Do-List",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\",
       "BasePath": "_content/To-Do-List",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -500,10 +500,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "To-Do-List",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\",
       "BasePath": "_content/To-Do-List",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -521,10 +521,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "To-Do-List",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\",
       "BasePath": "_content/To-Do-List",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -542,10 +542,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "To-Do-List",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\",
       "BasePath": "_content/To-Do-List",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -563,10 +563,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "To-Do-List",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\",
       "BasePath": "_content/To-Do-List",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -584,10 +584,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "To-Do-List",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\",
       "BasePath": "_content/To-Do-List",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -605,10 +605,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "To-Do-List",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\",
       "BasePath": "_content/To-Do-List",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -626,10 +626,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "To-Do-List",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\",
       "BasePath": "_content/To-Do-List",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -647,10 +647,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "To-Do-List",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\",
       "BasePath": "_content/To-Do-List",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -668,10 +668,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "To-Do-List",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\",
       "BasePath": "_content/To-Do-List",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -689,10 +689,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "To-Do-List",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\",
       "BasePath": "_content/To-Do-List",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -710,10 +710,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "To-Do-List",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\",
       "BasePath": "_content/To-Do-List",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "To-Do-List",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\",
       "BasePath": "_content/To-Do-List",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -752,10 +752,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "To-Do-List",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\",
       "BasePath": "_content/To-Do-List",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -773,10 +773,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "To-Do-List",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\",
       "BasePath": "_content/To-Do-List",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -794,10 +794,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "To-Do-List",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\",
       "BasePath": "_content/To-Do-List",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -815,10 +815,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "To-Do-List",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\",
       "BasePath": "_content/To-Do-List",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -836,10 +836,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "To-Do-List",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\",
       "BasePath": "_content/To-Do-List",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -857,10 +857,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "To-Do-List",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\",
       "BasePath": "_content/To-Do-List",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -878,10 +878,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "To-Do-List",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\",
       "BasePath": "_content/To-Do-List",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -899,10 +899,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "To-Do-List",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\",
       "BasePath": "_content/To-Do-List",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -920,10 +920,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "To-Do-List",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\",
       "BasePath": "_content/To-Do-List",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -941,10 +941,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "To-Do-List",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\",
       "BasePath": "_content/To-Do-List",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -962,10 +962,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "To-Do-List",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\",
       "BasePath": "_content/To-Do-List",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -983,10 +983,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "To-Do-List",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\",
       "BasePath": "_content/To-Do-List",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1004,10 +1004,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "To-Do-List",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\",
       "BasePath": "_content/To-Do-List",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1025,10 +1025,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "To-Do-List",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\",
       "BasePath": "_content/To-Do-List",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -1046,10 +1046,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "To-Do-List",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\",
       "BasePath": "_content/To-Do-List",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1067,10 +1067,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "To-Do-List",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\",
       "BasePath": "_content/To-Do-List",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "To-Do-List",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\",
       "BasePath": "_content/To-Do-List",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1109,10 +1109,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "To-Do-List",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\",
       "BasePath": "_content/To-Do-List",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1130,10 +1130,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "To-Do-List",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\",
       "BasePath": "_content/To-Do-List",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1151,10 +1151,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "To-Do-List",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\",
       "BasePath": "_content/To-Do-List",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1172,10 +1172,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "To-Do-List",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\",
       "BasePath": "_content/To-Do-List",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1193,10 +1193,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "To-Do-List",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\",
       "BasePath": "_content/To-Do-List",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1214,10 +1214,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "To-Do-List",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\",
       "BasePath": "_content/To-Do-List",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1235,10 +1235,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "To-Do-List",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\",
       "BasePath": "_content/To-Do-List",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1256,10 +1256,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "To-Do-List",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\",
       "BasePath": "_content/To-Do-List",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1277,10 +1277,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "To-Do-List",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\",
       "BasePath": "_content/To-Do-List",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1298,10 +1298,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "To-Do-List",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\",
       "BasePath": "_content/To-Do-List",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1319,10 +1319,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "To-Do-List",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\",
       "BasePath": "_content/To-Do-List",
       "RelativePath": "lib/bootstrap/LICENSE#[.{fingerprint}]?",
       "AssetKind": "All",
@@ -1340,10 +1340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "To-Do-List",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\",
       "BasePath": "_content/To-Do-List",
       "RelativePath": "lib/jquery/dist/jquery#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1361,10 +1361,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "To-Do-List",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\",
       "BasePath": "_content/To-Do-List",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1382,10 +1382,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "To-Do-List",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\",
       "BasePath": "_content/To-Do-List",
       "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.map",
       "AssetKind": "All",
@@ -1403,10 +1403,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "To-Do-List",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\",
       "BasePath": "_content/To-Do-List",
       "RelativePath": "lib/jquery/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -1424,10 +1424,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "To-Do-List",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\",
       "BasePath": "_content/To-Do-List",
       "RelativePath": "lib/jquery-validation/dist/additional-methods#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "To-Do-List",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\",
       "BasePath": "_content/To-Do-List",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1466,10 +1466,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "To-Do-List",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\",
       "BasePath": "_content/To-Do-List",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1487,10 +1487,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "To-Do-List",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\",
       "BasePath": "_content/To-Do-List",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1508,10 +1508,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "To-Do-List",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\",
       "BasePath": "_content/To-Do-List",
       "RelativePath": "lib/jquery-validation/LICENSE#[.{fingerprint}]?.md",
       "AssetKind": "All",
@@ -1529,10 +1529,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "To-Do-List",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\",
       "BasePath": "_content/To-Do-List",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1550,10 +1550,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "To-Do-List",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\",
       "BasePath": "_content/To-Do-List",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min#[.{fingerprint}]?.js",
       "AssetKind": "All",
@@ -1571,10 +1571,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "To-Do-List",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\",
       "BasePath": "_content/To-Do-List",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE#[.{fingerprint}]?.txt",
       "AssetKind": "All",
@@ -1592,10 +1592,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\webfonts\\fa-brands-400.ttf",
+      "Identity": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\webfonts\\fa-brands-400.ttf",
       "SourceId": "To-Do-List",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\",
       "BasePath": "_content/To-Do-List",
       "RelativePath": "webfonts/fa-brands-400#[.{fingerprint}]?.ttf",
       "AssetKind": "All",
@@ -1613,10 +1613,10 @@
       "OriginalItemSpec": "wwwroot\\webfonts\\fa-brands-400.ttf"
     },
     {
-      "Identity": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\webfonts\\fa-brands-400.woff2",
+      "Identity": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\webfonts\\fa-brands-400.woff2",
       "SourceId": "To-Do-List",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\",
       "BasePath": "_content/To-Do-List",
       "RelativePath": "webfonts/fa-brands-400#[.{fingerprint}]?.woff2",
       "AssetKind": "All",
@@ -1634,10 +1634,10 @@
       "OriginalItemSpec": "wwwroot\\webfonts\\fa-brands-400.woff2"
     },
     {
-      "Identity": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\webfonts\\fa-regular-400.ttf",
+      "Identity": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\webfonts\\fa-regular-400.ttf",
       "SourceId": "To-Do-List",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\",
       "BasePath": "_content/To-Do-List",
       "RelativePath": "webfonts/fa-regular-400#[.{fingerprint}]?.ttf",
       "AssetKind": "All",
@@ -1655,10 +1655,10 @@
       "OriginalItemSpec": "wwwroot\\webfonts\\fa-regular-400.ttf"
     },
     {
-      "Identity": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\webfonts\\fa-regular-400.woff2",
+      "Identity": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\webfonts\\fa-regular-400.woff2",
       "SourceId": "To-Do-List",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\",
       "BasePath": "_content/To-Do-List",
       "RelativePath": "webfonts/fa-regular-400#[.{fingerprint}]?.woff2",
       "AssetKind": "All",
@@ -1676,10 +1676,10 @@
       "OriginalItemSpec": "wwwroot\\webfonts\\fa-regular-400.woff2"
     },
     {
-      "Identity": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\webfonts\\fa-solid-900.ttf",
+      "Identity": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\webfonts\\fa-solid-900.ttf",
       "SourceId": "To-Do-List",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\",
       "BasePath": "_content/To-Do-List",
       "RelativePath": "webfonts/fa-solid-900#[.{fingerprint}]?.ttf",
       "AssetKind": "All",
@@ -1697,10 +1697,10 @@
       "OriginalItemSpec": "wwwroot\\webfonts\\fa-solid-900.ttf"
     },
     {
-      "Identity": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\webfonts\\fa-solid-900.woff2",
+      "Identity": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\webfonts\\fa-solid-900.woff2",
       "SourceId": "To-Do-List",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\",
       "BasePath": "_content/To-Do-List",
       "RelativePath": "webfonts/fa-solid-900#[.{fingerprint}]?.woff2",
       "AssetKind": "All",
@@ -1718,10 +1718,10 @@
       "OriginalItemSpec": "wwwroot\\webfonts\\fa-solid-900.woff2"
     },
     {
-      "Identity": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\webfonts\\fa-v4compatibility.ttf",
+      "Identity": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\webfonts\\fa-v4compatibility.ttf",
       "SourceId": "To-Do-List",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\",
       "BasePath": "_content/To-Do-List",
       "RelativePath": "webfonts/fa-v4compatibility#[.{fingerprint}]?.ttf",
       "AssetKind": "All",
@@ -1739,10 +1739,10 @@
       "OriginalItemSpec": "wwwroot\\webfonts\\fa-v4compatibility.ttf"
     },
     {
-      "Identity": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\webfonts\\fa-v4compatibility.woff2",
+      "Identity": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\webfonts\\fa-v4compatibility.woff2",
       "SourceId": "To-Do-List",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\",
       "BasePath": "_content/To-Do-List",
       "RelativePath": "webfonts/fa-v4compatibility#[.{fingerprint}]?.woff2",
       "AssetKind": "All",
@@ -1763,7 +1763,7 @@
   "Endpoints": [
     {
       "Route": "css/base.css",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\css\\base.css",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\css\\base.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1800,7 +1800,7 @@
     },
     {
       "Route": "css/base.jcif44atwh.css",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\css\\base.css",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\css\\base.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1845,7 +1845,7 @@
     },
     {
       "Route": "css/inputs.542vxhfdkp.css",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\css\\inputs.css",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\css\\inputs.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1890,7 +1890,7 @@
     },
     {
       "Route": "css/inputs.css",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\css\\inputs.css",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\css\\inputs.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1927,7 +1927,7 @@
     },
     {
       "Route": "css/login.css",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\css\\login.css",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\css\\login.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1964,7 +1964,7 @@
     },
     {
       "Route": "css/login.l9wes3f6b2.css",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\css\\login.css",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\css\\login.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2009,7 +2009,7 @@
     },
     {
       "Route": "css/main.8hj4q3pa6k.css",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\css\\main.css",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\css\\main.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2054,7 +2054,7 @@
     },
     {
       "Route": "css/main.css",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\css\\main.css",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\css\\main.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2091,7 +2091,7 @@
     },
     {
       "Route": "css/signUp.az1lpxqqgs.css",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\css\\signUp.css",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\css\\signUp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2136,7 +2136,7 @@
     },
     {
       "Route": "css/signUp.css",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\css\\signUp.css",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\css\\signUp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2173,7 +2173,7 @@
     },
     {
       "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\css\\site.css",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2210,7 +2210,7 @@
     },
     {
       "Route": "css/site.gnp3jwhdyo.css",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\css\\site.css",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2255,7 +2255,7 @@
     },
     {
       "Route": "favicon.61n19gt1b8.ico",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\favicon.ico",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2300,7 +2300,7 @@
     },
     {
       "Route": "favicon.ico",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\favicon.ico",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\favicon.ico",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2337,7 +2337,7 @@
     },
     {
       "Route": "img/apple.svg",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\img\\apple.svg",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\img\\apple.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2374,7 +2374,7 @@
     },
     {
       "Route": "img/apple.utvyzvdld7.svg",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\img\\apple.svg",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\img\\apple.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2419,7 +2419,7 @@
     },
     {
       "Route": "img/facebook.3gpcho5b3r.svg",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\img\\facebook.svg",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\img\\facebook.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2464,7 +2464,7 @@
     },
     {
       "Route": "img/facebook.svg",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\img\\facebook.svg",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\img\\facebook.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2501,7 +2501,7 @@
     },
     {
       "Route": "img/facebook-brands-solid.m8hqe1byd8.svg",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\img\\facebook-brands-solid.svg",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\img\\facebook-brands-solid.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2546,7 +2546,7 @@
     },
     {
       "Route": "img/facebook-brands-solid.svg",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\img\\facebook-brands-solid.svg",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\img\\facebook-brands-solid.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2583,7 +2583,7 @@
     },
     {
       "Route": "img/google.svg",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\img\\google.svg",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\img\\google.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2620,7 +2620,7 @@
     },
     {
       "Route": "img/google.ynl1cl4748.svg",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\img\\google.svg",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\img\\google.svg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2665,7 +2665,7 @@
     },
     {
       "Route": "img/Google__G__logo.svg.webp",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\img\\Google__G__logo.svg.webp",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\img\\Google__G__logo.svg.webp",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2702,7 +2702,7 @@
     },
     {
       "Route": "img/Google__G__logo.svg.wz7o70rhqg.webp",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\img\\Google__G__logo.svg.webp",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\img\\Google__G__logo.svg.webp",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2747,7 +2747,7 @@
     },
     {
       "Route": "img/login.5i96f2w6o3.jpg",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\img\\login.jpg",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\img\\login.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2792,7 +2792,7 @@
     },
     {
       "Route": "img/login.jpg",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\img\\login.jpg",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\img\\login.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2829,7 +2829,7 @@
     },
     {
       "Route": "img/login_image.ei9la9kpsw.png",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\img\\login_image.png",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\img\\login_image.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2874,7 +2874,7 @@
     },
     {
       "Route": "img/login_image.png",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\img\\login_image.png",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\img\\login_image.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2911,7 +2911,7 @@
     },
     {
       "Route": "img/title-icon.6dnks9hvl6.png",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\img\\title-icon.png",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\img\\title-icon.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2956,7 +2956,7 @@
     },
     {
       "Route": "img/title-icon.png",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\img\\title-icon.png",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\img\\title-icon.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2993,7 +2993,7 @@
     },
     {
       "Route": "js/site.bnkqy1y0r8.js",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\js\\site.js",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3038,7 +3038,7 @@
     },
     {
       "Route": "js/site.js",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\js\\site.js",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3075,7 +3075,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3112,7 +3112,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.73kdqttayv.map",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3157,7 +3157,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.css.map",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3194,7 +3194,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.bpk8xqwxhs.css",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3239,7 +3239,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3276,7 +3276,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.8inm30yfxf.map",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3321,7 +3321,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.min.css.map",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3358,7 +3358,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.mpyigms19s.css",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3403,7 +3403,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3440,7 +3440,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.4gxs3k148c.map",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3485,7 +3485,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3522,7 +3522,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.9b9oa1qrmt.css",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3567,7 +3567,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3604,7 +3604,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.fctod5rc9n.map",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3649,7 +3649,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3686,7 +3686,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap.rtl.ve6x09088i.css",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3731,7 +3731,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.agp80tu62r.css",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3776,7 +3776,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3813,7 +3813,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3850,7 +3850,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.css.st1cbwfwo5.map",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3895,7 +3895,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3932,7 +3932,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.5vj65cig9w.map",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3977,7 +3977,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4014,7 +4014,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.min.unj9p35syc.css",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4059,7 +4059,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4096,7 +4096,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.2q4vfeazbq.map",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4141,7 +4141,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4178,7 +4178,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4215,7 +4215,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4252,7 +4252,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.o371a8zbv2.map",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4297,7 +4297,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.n1oizzvkh6.css",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4342,7 +4342,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-grid.rtl.q2ku51ktnl.css",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4387,7 +4387,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.7na4sro3qu.css",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4432,7 +4432,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4469,7 +4469,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.jeal3x0ldm.map",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4514,7 +4514,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4551,7 +4551,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4588,7 +4588,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4625,7 +4625,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.okkk44j0xs.map",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4670,7 +4670,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.min.f8imaxxbri.css",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4715,7 +4715,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.0wve5yxp74.css",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4760,7 +4760,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4797,7 +4797,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.cwzlr5n8x4.map",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4842,7 +4842,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4879,7 +4879,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4916,7 +4916,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4953,7 +4953,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.wmug9u23qg.map",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4998,7 +4998,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.npxfuf8dg6.css",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5043,7 +5043,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5080,7 +5080,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.j75batdsum.map",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5125,7 +5125,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5162,7 +5162,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.16095smhkz.css",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5207,7 +5207,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5244,7 +5244,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5281,7 +5281,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.vy0bq9ydhf.map",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5326,7 +5326,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.b4skse8du6.css",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5371,7 +5371,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5408,7 +5408,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.ab1c3rmv7g.map",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5453,7 +5453,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5490,7 +5490,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5527,7 +5527,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.56d2bn4wt9.map",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5572,7 +5572,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5609,7 +5609,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.u3xrusw2ol.css",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5654,7 +5654,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/css/bootstrap-utilities.tey0rigmnh.css",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5699,7 +5699,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5736,7 +5736,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.kbynt5jhd9.map",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5781,7 +5781,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5818,7 +5818,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.l2av4jpuoj.js",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5863,7 +5863,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.25iw1kog22.js",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5908,7 +5908,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5945,7 +5945,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.c2nslu3uf3.map",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5990,7 +5990,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6027,7 +6027,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6064,7 +6064,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.2lgwfvgpvi.map",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6109,7 +6109,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6146,7 +6146,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.m39kt2b5c9.js",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6191,7 +6191,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6228,7 +6228,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6265,7 +6265,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.js.wsezl0heh6.map",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6310,7 +6310,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.esm.min.um2aeqy4ik.js",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6355,7 +6355,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6392,7 +6392,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.6ukhryfubh.map",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6437,7 +6437,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.js.map",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6474,7 +6474,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6511,7 +6511,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.map",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6548,7 +6548,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.js.u33ctipx7g.map",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6593,7 +6593,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.min.zwph15dxgs.js",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6638,7 +6638,7 @@
     },
     {
       "Route": "lib/bootstrap/dist/js/bootstrap.o4kw7cc6tf.js",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6683,7 +6683,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6720,7 +6720,7 @@
     },
     {
       "Route": "lib/bootstrap/LICENSE.z6qzljqjd0",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\bootstrap\\LICENSE",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6765,7 +6765,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.js",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6802,7 +6802,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.5trh6b1mit.js",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6847,7 +6847,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.dsw5v3fbc5.map",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6892,7 +6892,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.js",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6929,7 +6929,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.min.map",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6966,7 +6966,7 @@
     },
     {
       "Route": "lib/jquery/dist/jquery.vwa26bmbsk.js",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7011,7 +7011,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.rkkog0v3vw.txt",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7056,7 +7056,7 @@
     },
     {
       "Route": "lib/jquery/LICENSE.txt",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7093,7 +7093,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.gcjdx5jb8l.js",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7138,7 +7138,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.js",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7175,7 +7175,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.35gxhxa0gh.js",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7220,7 +7220,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/additional-methods.min.js",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7257,7 +7257,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.js",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7294,7 +7294,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.b7iojwaux1.js",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7339,7 +7339,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.min.js",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7376,7 +7376,7 @@
     },
     {
       "Route": "lib/jquery-validation/dist/jquery.validate.pzqfkb6aqo.js",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7421,7 +7421,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.md",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7458,7 +7458,7 @@
     },
     {
       "Route": "lib/jquery-validation/LICENSE.xzw0cte36n.md",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7503,7 +7503,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.0td7jq9nxb.js",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7548,7 +7548,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7585,7 +7585,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7622,7 +7622,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.zsyoy62yqm.js",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7667,7 +7667,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.4ez5mqxv2b.txt",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7712,7 +7712,7 @@
     },
     {
       "Route": "lib/jquery-validation-unobtrusive/LICENSE.txt",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7749,7 +7749,7 @@
     },
     {
       "Route": "To-Do-List.bundle.scp.css",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\To-Do-List.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\To-Do-List.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7786,7 +7786,7 @@
     },
     {
       "Route": "To-Do-List.i4m2363qkt.bundle.scp.css",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\To-Do-List.bundle.scp.css",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\To-Do-List.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7831,7 +7831,7 @@
     },
     {
       "Route": "To-Do-List.i4m2363qkt.styles.css",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\obj\\Debug\\net6.0\\scopedcss\\bundle\\To-Do-List.styles.css",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\obj\\Debug\\net6.0\\scopedcss\\bundle\\To-Do-List.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7876,7 +7876,7 @@
     },
     {
       "Route": "To-Do-List.styles.css",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\obj\\Debug\\net6.0\\scopedcss\\bundle\\To-Do-List.styles.css",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\obj\\Debug\\net6.0\\scopedcss\\bundle\\To-Do-List.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7913,7 +7913,7 @@
     },
     {
       "Route": "webfonts/fa-brands-400.izvpo0fq0c.ttf",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\webfonts\\fa-brands-400.ttf",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\webfonts\\fa-brands-400.ttf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7958,7 +7958,7 @@
     },
     {
       "Route": "webfonts/fa-brands-400.ttf",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\webfonts\\fa-brands-400.ttf",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\webfonts\\fa-brands-400.ttf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -7995,7 +7995,7 @@
     },
     {
       "Route": "webfonts/fa-brands-400.w3gmvxomfo.woff2",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\webfonts\\fa-brands-400.woff2",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\webfonts\\fa-brands-400.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8040,7 +8040,7 @@
     },
     {
       "Route": "webfonts/fa-brands-400.woff2",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\webfonts\\fa-brands-400.woff2",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\webfonts\\fa-brands-400.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8077,7 +8077,7 @@
     },
     {
       "Route": "webfonts/fa-regular-400.i8qdkhure4.ttf",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\webfonts\\fa-regular-400.ttf",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\webfonts\\fa-regular-400.ttf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8122,7 +8122,7 @@
     },
     {
       "Route": "webfonts/fa-regular-400.tiuka3971e.woff2",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\webfonts\\fa-regular-400.woff2",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\webfonts\\fa-regular-400.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8167,7 +8167,7 @@
     },
     {
       "Route": "webfonts/fa-regular-400.ttf",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\webfonts\\fa-regular-400.ttf",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\webfonts\\fa-regular-400.ttf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8204,7 +8204,7 @@
     },
     {
       "Route": "webfonts/fa-regular-400.woff2",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\webfonts\\fa-regular-400.woff2",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\webfonts\\fa-regular-400.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8241,7 +8241,7 @@
     },
     {
       "Route": "webfonts/fa-solid-900.q5d2fvgdiy.woff2",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\webfonts\\fa-solid-900.woff2",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\webfonts\\fa-solid-900.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8286,7 +8286,7 @@
     },
     {
       "Route": "webfonts/fa-solid-900.ttf",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\webfonts\\fa-solid-900.ttf",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\webfonts\\fa-solid-900.ttf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8323,7 +8323,7 @@
     },
     {
       "Route": "webfonts/fa-solid-900.woff2",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\webfonts\\fa-solid-900.woff2",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\webfonts\\fa-solid-900.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8360,7 +8360,7 @@
     },
     {
       "Route": "webfonts/fa-solid-900.xyf340uas6.ttf",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\webfonts\\fa-solid-900.ttf",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\webfonts\\fa-solid-900.ttf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8405,7 +8405,7 @@
     },
     {
       "Route": "webfonts/fa-v4compatibility.0bf02qslzm.woff2",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\webfonts\\fa-v4compatibility.woff2",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\webfonts\\fa-v4compatibility.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8450,7 +8450,7 @@
     },
     {
       "Route": "webfonts/fa-v4compatibility.1rckkh26l5.ttf",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\webfonts\\fa-v4compatibility.ttf",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\webfonts\\fa-v4compatibility.ttf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8495,7 +8495,7 @@
     },
     {
       "Route": "webfonts/fa-v4compatibility.ttf",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\webfonts\\fa-v4compatibility.ttf",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\webfonts\\fa-v4compatibility.ttf",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8532,7 +8532,7 @@
     },
     {
       "Route": "webfonts/fa-v4compatibility.woff2",
-      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\wwwroot\\webfonts\\fa-v4compatibility.woff2",
+      "AssetFile": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\wwwroot\\webfonts\\fa-v4compatibility.woff2",
       "Selectors": [],
       "ResponseHeaders": [
         {

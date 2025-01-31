@@ -2013,11 +2013,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\To-Do-List.csproj",
+      "projectUniqueName": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\To-Do-List.csproj",
       "projectName": "To-Do-List",
-      "projectPath": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\To-Do-List.csproj",
+      "projectPath": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\To-Do-List.csproj",
       "packagesPath": "C:\\Users\\Alfalak\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\obj\\",
+      "outputPath": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2089,5 +2089,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Error occurred while getting package vulnerability data: Unable to load the service index for source https://api.nuget.org/v3/index.json."
+    }
+  ]
 }

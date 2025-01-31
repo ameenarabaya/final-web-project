@@ -10,7 +10,6 @@ namespace To_Do_List.Models
         public ToDoContext(DbContextOptions<ToDoContext> options)
         : base(options)
         { }
-
         public DbSet<User> User { get; set; }
         public DbSet<TaskModel> Tasks { get; set; }
         public DbSet<SubTask> SubTask { get; set; }

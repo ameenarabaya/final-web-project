@@ -1,5 +1,5 @@
 ﻿  @model List<TaskModel>
- 
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -14,7 +14,7 @@
 </head>
 
 <body>
-    
+
     <div class="contains d-flex justify-content-center">
         <div class="container">
             <div class="title d-flex justify-content-between align-items-center">
@@ -31,7 +31,7 @@
                 }
                 @for (int i = 0, s = 0; i < Model.Count(); i++, s++)
                 {
-                        if (s >= ((List<string>)ViewBag.color).Count)
+                    if (s >= ((List<string>)ViewBag.color).Count)
                     {
                         s = 0;
                     }
@@ -39,7 +39,7 @@
                         <div class="icons" style="border-radius:15px;">
                             <div class="edit">
                                 <a asp-route-id="@Model[i].Id" asp-action="EditTask" asp-controller="Task">
-                                    
+
                                     <i class="fa-regular fa-pen-to-square" style="color: #121b2b;"></i>
 
                                 </a>
@@ -47,26 +47,27 @@
                             <div class="delete">
                                 <a asp-route-id="@Model[i].Id" asp-action="DeleteTask" asp-controller="Task"><i class="fa-solid fa-trash-can" style="color: #121b2b;"></i></a>
                             </div>
-                           
+
                         </div>
                         <div class="d-flex justify-content-between align-items-center mb-2">
-                        <h5 class="position-relative title ">
-                            <i class="fa-solid fa-thumbtack"></i>
-                            @Model[i].Title
-                        </h5>
+                            <h5 class="position-relative title ">
+                                <i class="fa-solid fa-thumbtack"></i>
+                                @Model[i].Title
+                            </h5>
                             <a asp-route-id="@Model[i].Id" asp-action="AddSubTask" asp-controller="Task"><i class="fa-regular fa-square-plus" style="color: #121b2b;"></i></a>
                         </div>
-                       
+
                         <div class="theTasks d-flex flex-column">
                             @if(@Model[i].SubTasks.Count() == 0){
                                 <div class="text-center" style="color:#00000059; position:absolute; top:50%; left:50%; transform: translate(-50%, -50%); user-select:none;  ">
                                     clik to the <i class="fa-regular fa-square-plus" style=""></i> to add task
                                 </div>
                             }
+                          
                             @foreach (var Sub in @Model[i].SubTasks){
                                 @if (Sub.Done)
                                 {
-                                <div class="d-flex justify-content-between mb-2 ">
+                                    <div class="d-flex justify-content-between mb-2 ">
                                     <div>
                                  <a><i class="fa-solid fa-check-double"></i></a>
                                 <span style="font-weight:bold; margin-left:3px;">@Sub.Title</span>

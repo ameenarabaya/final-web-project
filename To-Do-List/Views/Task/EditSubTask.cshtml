@@ -1,37 +1,4 @@
-﻿@* @model SubTask *@
-@* @{ *@
-@*     ViewData["Title"] = "Task Input"; *@
-@* } *@
-
-@* <head> *@
-@*     <meta charset="utf-8" /> *@
-@*     <meta name="viewport" content="width=device-width, initial-scale=1.0" /> *@
-@*     <link rel="stylesheet" href="@Url.Content("~/css/inputs.css")"> *@
-@* </head> *@
-@* <body> *@
-@*     <div class="theInputs"> *@
-@*     <h2>Edit Sub TTask</h2> *@
-@*     <h1>@ViewBag.subTaskId</h1> *@
-@*     <form asp-action="EditSubTask" asp-controller="Task" method="post"> *@
-@*        <input asp-for="Title" class="form-input" /> *@
-@*         <input asp-for="Id" type="hidden" /> *@
-
-@*         <input asp-for="TaskModelId"  type="hidden" /> *@
-
-
-@*         <p>is completed ?</p> *@
-@*         <input type="radio" id="done" asp-for="Done" value="True"> *@
-@*         <label for="done">Complete</label><br> *@
-@*         <input type="radio" id="notDone" asp-for="Done" value="False"> *@
-@*         <label for="notDone">Uncomplete</label><br> *@
-@*         <input type="submit" value="EditSubTask" /> *@
-@*     </form> *@
-@* </div> *@
-
-@* </body> *@
-
-
-@model SubTask
+﻿@model SubTask
 @{
     ViewData["Title"] = "Edit Subtask";
 }

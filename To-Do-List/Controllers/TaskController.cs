@@ -15,8 +15,6 @@ namespace To_Do_List.Controllers
         public IActionResult Index(User user)
         {
 
-            //List<TaskModel> tasks= context.Tasks.Where(m => m.UserId==user.Id).ToList();
-
             ViewBag.color = new List<string> { "aquamarine", "#ffde59", "#c9b8da", "#ff914d", "#AEC33A" };
 
             var userId = HttpContext.Session.GetInt32("UserId");

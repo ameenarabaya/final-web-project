@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\To-Do-List.csproj": {}
+    "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\To-Do-List.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\To-Do-List.csproj": {
+    "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\To-Do-List.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\To-Do-List.csproj",
+        "projectUniqueName": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\To-Do-List.csproj",
         "projectName": "To-Do-List",
-        "projectPath": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\To-Do-List.csproj",
+        "projectPath": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\To-Do-List.csproj",
         "packagesPath": "C:\\Users\\Alfalak\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alfalak\\Desktop\\finalWebProject\\web-project2-main\\To-Do-List\\obj\\",
+        "outputPath": "C:\\Users\\Alfalak\\Desktop\\university-4th year\\finalWebProject\\final-project\\To-Do-List\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

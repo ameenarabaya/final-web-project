@@ -12,7 +12,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!-- Updated CSS links to use Url.Content with correct paths -->
     <link rel="stylesheet" href="@Url.Content("~/css/base.css")" asp-append-version="true">
     <link rel="stylesheet" href="@Url.Content("~/css/signup.css")" asp-append-version="true">
     <link rel="icon" href="@Url.Content("~/img/title-icon.png")" asp-append-version="true">
@@ -24,16 +23,14 @@
         <div class="container">
             <div class="row">
                 <div class="left-side-image">
-                    <!-- Updated image source to use Url.Content -->
                     <img src="@Url.Content("~/img/login.jpg")" alt="to-do-list-image desktop login-page">
                 </div>
                 <div class="right-side">
-                    <h2>Sing Up</h2>
+                    <h2>Sign Up</h2>
                     <form method="post" asp-action="signup" asp-controller="User" autocomplete="on">
                         <div class="social-media">
                             <div class="row">
                                 <button>
-                                    <!-- Updated social media icons -->
                                     <img src="@Url.Content("~/img/facebook.svg")" alt="facebook">
                                     <a href="https://www.facebook.com/">Continue with Facebook</a>
                                 </button>
@@ -66,13 +63,10 @@
                             <label for="pass">Password</label>
                             <input type="password" id="pass" asp-for="Password" required placeholder="Your Password...">
                         </div>
-                        @* <div class="box"> *@
-                        @*     <label for="confirm">Confirm Password</label> *@
-                        @*     <input type="password" id="confirm" name="confirmPassword" required placeholder="Confirm Your Password..."> *@
-                        @* </div> *@
+                       
 
                         <input type="submit" value="Sign Up">
-                        <!-- Updated navigation link -->
+                    
                         <a asp-action="Index" class="account">Have an Account?</a>
                     </form>
                 </div>
